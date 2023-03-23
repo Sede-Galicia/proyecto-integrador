@@ -30,7 +30,7 @@
 ## Dia 2 (*Jueves 23 de Marzo de 2023*)
 - Hemos creado y/o organizado nuestro repositorio de GitHub como indica el documento del proyecto integrador, a continuacion se mostrara una lista en donde se especifica con detalle que es lo que se ha hecho.
   - Crear la carpeta **bitacora**
-    - Aqui se guardaran los documentos de cada mes de trabajo en el taller.
+    > Aqui se guardaran los documentos de cada mes de trabajo en el taller.
     
   - Añadir los miembros del equipo en el dichero **README.md**
   - Anadir los enlaces de los documentos de cada uno de los integrantes.
