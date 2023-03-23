@@ -14,6 +14,9 @@
 - Alex Perez → **NONE**
 - Andreu Senabre → https://github.com/Sede-Galicia/proyecto-integrador/blob/main/Andreu.md
 
+
+# Trabajo en el taller
+
 ## Dia 0 (16/03/2023)
 - Hemos creado el Markdown grupal donde indicaremos todo lo que hemos hecho durante el Proyecto Integrador.
 
