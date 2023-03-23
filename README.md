@@ -1,5 +1,19 @@
 # Proyecto Integrador
 
+## Miembros del grupo
+- Javier Aracil
+- Unai Cerda
+- Mauro Laguna
+- Alex Perez
+- Andreu Senabre
+
+## Enlaces a cada uno de los documentos de los miembros
+- Javier Aracil →
+- Unai Cerda →
+- Mauro Laguna →
+- Alex Perez →
+- Andreu Senabre →
+
 ## Dia 0 (16/03/2023)
 - Hemos creado el Markdown grupal donde indicaremos todo lo que hemos hecho durante el Proyecto Integrador.
 
