@@ -1,4 +1,4 @@
-# Proyecto integrador
+# Tareas realizadas en el taller
 
 ## Dia 0 (Jueves 16 de Marzo de 2023)
 - **Objetivo del dia** → Crear mi fichero markdown para anotar todas mis aportaciones del proyecto que he realizado.
