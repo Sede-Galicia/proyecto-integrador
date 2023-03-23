@@ -21,8 +21,8 @@
 
 # Trabajo en el taller
 
-## **Dia 0** (Jueves 16 de Marzo de 2023)
+## Dia 0 (*Jueves 16 de Marzo de 2023*)
 - Hemos creado el Markdown grupal donde indicaremos todo lo que hemos hecho durante el Proyecto Integrador.
 
-## **Dia 1** (Martes 21 de Marzo de 2023)
+## Dia 1 (*Martes 21 de Marzo de 2023*)
 - Hemos organizado la zona de trabajo (quitar cables, posicionar ordenadores, descomtar patch-panel y demas) para que cuando vayamos al taller tenerlo todo listo para empezar.
