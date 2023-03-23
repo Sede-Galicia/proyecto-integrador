@@ -15,9 +15,9 @@
 - [Andreu Senabre](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/Andreu.md)
 
 ## Enlaces a cada uno de los documentos mensuales
-- Marzo → https://github.com/Sede-Galicia/proyecto-integrador/blob/main/bitacora/bitacora-marzo.md
-- Abril → https://github.com/Sede-Galicia/proyecto-integrador/blob/main/bitacora/bitacora-abril.md
-- Mayo → https://github.com/Sede-Galicia/proyecto-integrador/blob/main/bitacora/bitacora-mayo.md
+- [Marzo](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/bitacora/bitacora-marzo.md)
+- [Abril](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/bitacora/bitacora-abril.md)
+- [Mayo](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/bitacora/bitacora-mayo.md)
 
 # Trabajo en el taller
 
