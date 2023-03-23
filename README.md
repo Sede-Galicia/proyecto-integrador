@@ -8,11 +8,11 @@
 - Andreu Senabre
 
 ## Enlaces a cada uno de los documentos de los miembros
-- Javier Aracil →
-- Unai Cerda →
-- Mauro Laguna →
-- Alex Perez →
-- Andreu Senabre →
+- Javier Aracil → https://github.com/Sede-Galicia/proyecto-integrador/blob/main/Javier-Aracil.md
+- Unai Cerda → https://github.com/Sede-Galicia/proyecto-integrador/blob/main/Unai.md
+- Mauro Laguna → **NONE**
+- Alex Perez → **NONE**
+- Andreu Senabre → https://github.com/Sede-Galicia/proyecto-integrador/blob/main/Andreu.md
 
 ## Dia 0 (16/03/2023)
 - Hemos creado el Markdown grupal donde indicaremos todo lo que hemos hecho durante el Proyecto Integrador.
