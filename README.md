@@ -8,11 +8,11 @@
 - Andreu Senabre
 
 ## Enlaces a cada uno de los documentos de los miembros
-- Javier Aracil → https://github.com/Sede-Galicia/proyecto-integrador/blob/main/Javier-Aracil.md
-- Unai Cerda → https://github.com/Sede-Galicia/proyecto-integrador/blob/main/Unai.md
-- Mauro Laguna → **NONE**
-- Alex Perez → **NONE**
-- Andreu Senabre → https://github.com/Sede-Galicia/proyecto-integrador/blob/main/Andreu.md
+- [Javier Aracil](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/Javier-Aracil.md)
+- [Unai Cerda](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/Unai.md)
+- Mauro Laguna → Todavia no ha creado su fichero **.MD**
+- Alex Perez → Todavia no ha creado su fichero **.MD**
+- [Andreu Senabre](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/Andreu.md)
 
 ## Enlaces a cada uno de los documentos mensuales
 - Marzo → https://github.com/Sede-Galicia/proyecto-integrador/blob/main/bitacora/bitacora-marzo.md
