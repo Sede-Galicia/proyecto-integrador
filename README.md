@@ -34,4 +34,4 @@
     
   - Añadir los miembros del equipo en el dichero **README.md**
   - Anadir los enlaces de los documentos de cada uno de los integrantes.
-  - Anadir los enlaces de los documentos mensuales.
+  - Modificar los ficheros de la carpeta **bitacora** con el formato requirido y anadir los enlaces de los documentos mensuales.
