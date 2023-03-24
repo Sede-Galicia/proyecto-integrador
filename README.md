@@ -12,7 +12,7 @@
 - [Unai Cerda](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/Unai.md)
 - [Mauro Laguna](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/mauro.md)
 - Alex Perez → Todavia no ha creado su fichero **.MD**
-- [Andreu Senabre](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/Andreu.md)
+- [Andreu Senabre](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/miembros/asenabre03.md)
 
 ## Enlaces a cada uno de los documentos mensuales
 - [Marzo](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/bitacora/bitacora-marzo.md)
