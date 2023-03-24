@@ -41,3 +41,4 @@
 
 ## Dia 3 (*Jueves 24 de Marzo de 2023*)
 - Hemos vuelto a ir al taller para rematar el trabajo de ordenar todo, hemos posicionado mejor los ordenadores, terminado de sacar todos los elementos del rack que usaremos, conectado las pantallas y ordenadores para usarlos y hacer el inventario de todo lo que usaremos para el proyecto.
+- Hemos creado la carpeta **inventario** para añadir el fichero inventario.md documentando todo lo que tendremos a nuestra disposicion para hacer el proyecto.
