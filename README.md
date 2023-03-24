@@ -11,7 +11,7 @@
 - [Javier Aracil](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/miembros/Javier-Aracil.md)
 - [Unai Cerda](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/miembros/Unai.md)
 - [Mauro Laguna](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/miembros/mauro.md)
-- Alex Perez → Todavia no ha creado su fichero **.MD**
+- [Alex Perez](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/miembros/Alex.md)
 - [Andreu Senabre](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/miembros/asenabre03.md)
 
 ## Enlaces a cada uno de los documentos mensuales
