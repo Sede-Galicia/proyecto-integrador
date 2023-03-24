@@ -1,7 +1,7 @@
 # Tareas realizadas en el taller
 
 ## Dia 0 (Jueves 16 de Marzo de 2023)
-- **Objetivo del dia** → Crear mi fichero markdown para anotar todas mis aportaciones del proyecto que he realizado.
+- <u>**Objetivo del dia**</u> → Crear mi fichero markdown para anotar todas mis aportaciones del proyecto que he realizado.
 - **Que se ha hecho** → Crear con exito el fichero markdown.
 - **Que he podido conseguir** → He podido crear mi fichero markdown y escribir en el.
 - **Que no he podido conseguir y porque** → No he tenido ningun problema.
