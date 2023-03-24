@@ -34,12 +34,12 @@
 - Aun no hemos pensado el numero de adaptadores que usaremos, esta parte quedara pendiente de terminar.
 
 ## Cables
-- x14 cables cortos Ethernet
-- x22 cables largos Ethernet
-- x11 Cables de alimentacion
-- x3 Cables VGA
-- x3 Adaptadores VGA to HDMI o DisplayPort
+- **x14** cables cortos Ethernet
+- **x22** cables largos Ethernet
+- **x11** Cables de alimentacion
+- **x3** Cables VGA
+- **x3** Adaptadores VGA to HDMI o DisplayPort
 
 ## Perifericos
-- x3 Teclados
-- x3 Ratones
+- **x3** Teclados
+- **x3** Ratones
