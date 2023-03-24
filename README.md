@@ -31,7 +31,10 @@
 - Hemos creado y/o organizado nuestro repositorio de GitHub como indica el documento del proyecto integrador, a continuacion se mostrara una lista en donde se especifica con detalle que es lo que se ha hecho.
   - Crear la carpeta **bitacora**
     > Aqui se guardaran los documentos de cada mes de trabajo en el taller.
-    
+  
+  - Crear la carpeta **documentos**
+    > Aqui iran todos los documentos relacionados con el proyecto integrador.
+  
   - Añadir los miembros del equipo en el dichero **README.md**
   - Anadir los enlaces de los documentos de cada uno de los integrantes.
   - Modificar los ficheros de la carpeta **bitacora** con el formato requirido y anadir los enlaces de los documentos mensuales.
