@@ -46,3 +46,6 @@
   - Añadir los miembros del equipo en el dichero **README.md**
   - Anadir los enlaces de los documentos de cada uno de los integrantes.
   - Modificar los ficheros de la carpeta **bitacora** con el formato requirido y anadir los enlaces de los documentos mensuales.
+
+## Dia 3 (*Jueves 24 de Marzo de 2023*)
+- Hemos vuelto a ir al taller para rematar el trabajo de ordenar todo, hemos posicionado mejor los ordenadores, terminado de sacar todos los elementos del rack que usaremos, conectado las pantallas y ordenadores para usarlos y hacer el inventario de todo lo que usaremos para el proyecto.
