@@ -20,6 +20,6 @@
 
 ## Dia 3 (*Viernes 24 de Marzo de 2023*)
 - **Objetivo del dia** → Terminar de organizar e inventariar todo lo que usaremos para llevar a cabo el proyecto.
-- **Que se ha hecho** → Organizar e inventariar todo lo que usaremos para llevar a cabo el proyecto.
+- **Que se ha hecho** → Organizar e inventariar todo lo que usaremos para llevar a cabo el proyecto y hacer el fichero **inventario.md** para documentar todo el hardware que tendremos a nuestra disposicion.
 - **Que he podido conseguir** → He podido conseguir un gran resultado junto con mi grupo dejando super organizado la zona de trabajo, donde los cables **NO** son un estorbo y dejando los cables en altura para evitar inconvenientes con el equipo informatico ante inundaciones del taller.
 - **Que no he podido conseguir y porque** → No he tenido ningun problema.
