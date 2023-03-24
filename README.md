@@ -8,8 +8,8 @@
 - Andreu Senabre
 
 ## Enlaces a cada uno de los documentos de los miembros
-- [Javier Aracil](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/Javier-Aracil.md)
-- [Unai Cerda](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/Unai.md)
+- [Javier Aracil](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/miembros/Javier-Aracil.md)
+- [Unai Cerda](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/miembros/Unai.md)
 - [Mauro Laguna](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/miembros/mauro.md)
 - Alex Perez → Todavia no ha creado su fichero **.MD**
 - [Andreu Senabre](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/miembros/asenabre03.md)
