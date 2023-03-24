@@ -1,19 +1,19 @@
 # Inventario disponible para el Proyecto Integrador
 
 ## Ordenadores
-- x3 DELL 
+- x3 Ordenadores DELL 
   - Intel Core i5 9th Gen
   - Serial: **ORJ3**
 
-- x3 APD (Serial: ORI3)
+- x3 Ordenadores APD
   - Intel Pentium Gold
   - Serial: **ORI3**
 
-- x1 HP (Serial: ORF2)
+- x1 Ordenador HP
   - Intel i5 4th Gen
   - Serial: **ORF2**
 
-- x1 Generic PC (Serial: ORH2)
+- x1 Ordenador Generico
   - Intel Pentium
   - Serial: **ORH2**
 
