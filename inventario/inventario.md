@@ -24,7 +24,7 @@
 - **x1** Patch-panel con 24 bocas Ethernet [Categoria 5e]
 
 ## Red
-- **x1** MicroTick configurable con 4 bocas Ethernet
+- **x1** MikroTik (HAP Lite) configurable con 4 bocas Ethernet
 - **x1** Router TP-LINK [150 Mbps] con 4 bocas Ethernet [100 Mbps]
 
 ## Electrico
