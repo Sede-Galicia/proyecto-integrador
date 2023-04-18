@@ -35,15 +35,14 @@
 - **x0** Alimentador para TP-LINK con 8 bocas Ethernet
 
 ## Adaptadores
-- Aun no hemos pensado el numero de adaptadores que usaremos, esta parte quedara pendiente de terminar.
+- **x1** Adaptador VGA to HDMI
+- **x1** Adaptadores RJ-45 to USB
 
 ## Cables
 - **x14** cables cortos Ethernet
 - **x22** cables largos Ethernet
 - **x11** Cables de alimentacion
 - **x3** Cables VGA
-- **x1** Adaptador VGA to HDMI
-- **x?** Adaptadores RJ-45 to USB
 
 ## Perifericos
 - **x3** Teclados
