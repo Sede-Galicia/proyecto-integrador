@@ -30,9 +30,9 @@
 
 ## Electrico
 - **x1** SAI Salicru hasta 1200W [3 enchufes]
-- **x1** Alimentador MicroUSB para MikroTik (HAP Lite)
+- **x0** Alimentador MicroUSB para MikroTik (HAP Lite)
 - **x1** Alimentador para Router TP-LINK
-- **x1** Alimentador para TP-LINK con 8 bocas Ethernet
+- **x0** Alimentador para TP-LINK con 8 bocas Ethernet
 
 ## Adaptadores
 - Aun no hemos pensado el numero de adaptadores que usaremos, esta parte quedara pendiente de terminar.
