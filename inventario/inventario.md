@@ -43,6 +43,7 @@
 - **x11** Cables de alimentacion
 - **x3** Cables VGA
 - **x1** Adaptador VGA to HDMI
+- **x?** Adaptadores RJ-45 to USB
 
 ## Perifericos
 - **x3** Teclados
