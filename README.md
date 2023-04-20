@@ -9,7 +9,7 @@
 
 ## Enlaces a cada uno de los documentos de los miembros
 - [Javier Aracil](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/miembros/Javier-Aracil.md)
-- [Unai Cerda](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/miembros/Unai.md)
+- [Unai Cerdà](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/miembros/Unai.md)
 - [Mauro Laguna](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/miembros/mauro.md)
 - [Alex Perez](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/miembros/Alex.md)
 - [Andreu Senabre](https://github.com/Sede-Galicia/proyecto-integrador/blob/main/miembros/asenabre03.md)
