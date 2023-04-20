@@ -50,4 +50,4 @@
 
 ## Dia 4 (*Miercoles 20 de Abril de 2023*)
 - Hemos ido al taller para configurar el **MikroTik** y dejarlo preparado para que los equipos puedan salir a Internet a traves de el.
-- Hemos empezado a instalar en los equipos los sistemas operativos que usaremos para nuestro proyecto, empezaremos con los ordenadores **DELL** instalando el sistema operativo **Debian 11**.
+- Hemos empezado a instalar en los equipos los sistemas operativos que usaremos para nuestro proyecto, empezaremos con los ordenadores **DELL** instalando el sistema operativo **Debian 11 Con Entorno Grafico**, ya que en esos servidores físicos necesitaremos virtualizar otros servicios.
