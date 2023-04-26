@@ -9,4 +9,4 @@ Raul nos ha explicado como configurar un microtik y hemos intentado configurar p
 # día 3-18/03/2023
 Hemos conseguido que nuestra sede tenga internet tirando un cable directo desde el ordenador central
 # día 4-20/03/2023
-He estado intentando configurar el microtick para poder introducirlo en la red para que los equipos tuvieran conectividad a Internet pero es un aparato muy complejo y no lo hemos conseguido el próximo día intentaremos solucionarlo
+He estado intentando configurar el microtick para poder introducirlo en la red para que los equipos tuvieran conectividad a Internet pero es un aparato muy complejo y no lo hemos conseguido el próximo día intentaremos solucionarlo,mientras instalabamos debian 11 y otros sistemas operativos en los equipos para que estuvieran listos para usarlos,tambien hemos configurado el mikrotic con una aplicacion de windows llamada winbox
