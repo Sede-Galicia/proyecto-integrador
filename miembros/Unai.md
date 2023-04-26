@@ -22,3 +22,8 @@ Hemos ido a comprobar si los equipos tenian internet y si no lo tenian intentar 
 ## Dia 4 (20/04/2023)
 
 Hoy primeramente hemos estado en clase instalando una ISO de Debian, para instalar este sistema operartivo en todos los equipos físicos, y después he ido a ayudar a mis compañeros a configurar el microtik, para que los clientes tengan acceso a internet.
+
+
+## Dia 5 (26/04/2023)
+
+Hoy hemos acabado de configurar el microtik para que algun equipo salga a internet, ahora vamos a ezpezar a configurar el switch y por último hemos hecho el plano de las IP's que tendra cada equipo de red y los equipos
