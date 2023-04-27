@@ -31,8 +31,15 @@
 
 - Instalamos un Windows 10 en un equipo cliente para poder instalar el programa exclusivo 'WinBox' el cual contiene un interfaz con distintos apartados para poder configurar el microtik.
 
-- Configuramos el microtik en el taller con el programa 'WinBox'.
+- Comenzamos a configurar el microtik en el taller con el programa 'WinBox'.
 
 - Repasamos inventario.
 
-- Intentamos instalar un Debian 11 a un equipo cliente pero al parecer la ISO estaba corrupta o teníamos un fallo de arranque en el ordenador, tenemos que terminar de resolver este problema.
+- Intentamos instalar un Debian 11 a un equipo cliente pero al parecer la ISO fallaba en las particiones, tenemos que terminar de resolver este problema.
+
+**26/04/2023 - Dia 6**
+- Continuamos configurando el microtik, hemos estando realizando distintas pruebas y cada vez estamos más cerca de lograr crear las redes.
+- Resolvemos el problema de las particiones, el cual era que estaba en modo legacy cuando el pc tenía arranque UEFI.
+- Realizamos un esquema de red en sucio, (en el taller). Esto nos servirá para aclarar mejor las ideas y plantear ya que fallos o que falta para configurar   el microtik
+- Hacemos primer contacto con la interfaz de configuración del switch de 8 bocas a través del navegador. Accedemos a la herramienta y reiniciamos el         dispositivo para quitar cualquier configuración previa como algunas VLAN's.
+  Al principio no funcionaba ya que no estabamos en la misma red con lo cual no podíamos acceder a la dirección por LAN, problema resuelto.
