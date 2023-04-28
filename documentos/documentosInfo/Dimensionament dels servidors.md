@@ -1,8 +1,16 @@
 ## DELL 1
 **- Sistema Operativo y Servicios**
 
-    - S.O -> Debian Server Bullsey (Interfaz gráfica)
+    - S.O -> Lubuntu 22.04 (Interfaz gráfica)
     - Servicios -> Servidor web intranet
+                        - S.O: Lubuntu 22.04 (Entorno Gráfico)
+                        - RAM: 1GB
+                        - Disco Duro: 10GB
+                        - Procesador Núcleos: 1
+                        - ## Tarjetas de red:
+                            - Interna
+                            - NAT
+                        
                    Servidor web extern
     
 **- Especifícaciones físicas:**
@@ -16,7 +24,7 @@
 ## DELL 2
 **- Sistema Operativo y Servicios**
 
-    - S.O -> Debian Server Bullsey (Interfaz gráfica)
+    - S.O -> Lubuntu 22.04 (Interfaz gráfica)
     - Servicios -> Servidor de aplicaciones y utilidades
                    Servidor de monitorización
                    Servidor empresarial secundario o adicional
@@ -33,7 +41,7 @@
 ## DELL 3
 **- Sistema Operativo y Servicios**
 
-    - S.O -> Debian Server Bullsey (Interfaz gráfica)
+    - S.O -> Lubuntu 22.04 (Interfaz gráfica)
     - Servicios -> Servidor de Controlador de Dominio
                    Servidor de Datos
     
