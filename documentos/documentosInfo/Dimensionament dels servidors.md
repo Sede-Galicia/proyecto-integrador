@@ -2,7 +2,7 @@
 **- Sistema Operativo y Servicios**
     - S.O -> Lubuntu 22.04 (Entorno gráfico)
   
-  - Servicios -> Servidor web intranet
+                   Servicios -> Servidor web intranet
                         - S.O: Lubuntu 22.04 (Entorno Gráfico)
                         - RAM: 1GB
                         - Disco Duro: 20GB
