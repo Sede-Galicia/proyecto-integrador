@@ -38,7 +38,7 @@
 **- Sistema Operativo y Servicios**
     - S.O -> Lubuntu 22.04 (Entorno gráfico)
    
-   - Servicios -> Servidor de aplicaciones y utilidades
+                   Servicios -> Servidor de aplicaciones y utilidades
                         - S.O: Windows Server 2022 (Entorno Gráfico)
                         - RAM: 2GB
                         - Disco Duro: 50GB
@@ -67,7 +67,7 @@
 **- Sistema Operativo y Servicios**
     - S.O -> Lubuntu 22.04 (Entorno gráfico)
     
-    - Servicios -> Servidor de Controlador de Dominio
+                   Servicios -> Servidor de Controlador de Dominio
                         - S.O: Windows Server 2022 (Entorno Gráfico)
                         - RAM: 2GB
                         - Disco Duro: 50GB
