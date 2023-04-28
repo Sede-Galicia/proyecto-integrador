@@ -6,8 +6,7 @@
                         - RAM: 1GB
                         - Disco Duro: 20GB
                         - Procesador Núcleos: 1
-                        - Tarjetas de red:
-                            - Interna
+                        - Tarjetas de red
                             - Adaptador Puente
                         
                    Servidor web externo
@@ -17,7 +16,6 @@
                         - Procesador Núcleos: 1
                         - Tarjetas de red:
                             - Adaptador Puente
-                            - Interna
                             
                    Servidor de Datos
                         - S.O: Windows Server 2022 (Entorno Gráfico)
@@ -25,14 +23,13 @@
                         - Disco Duro: 100GB
                         - Procesador Núcleos: 2
                         - Tarjetas de red:
-                            - Red Interna
                             - Adaptador Puente
     
 **- Especifícaciones físicas:**
     - Procesador -> I5 9 Generación 3.00Ghz
     - Disco Duro -> 250GB
     - RAM -> 8GB
-    - Tarejta de red -> Ethernet controller: Intel Corporation Ethernet Connection
+    - Tarjeta de red -> Ethernet controller: Intel Corporation Ethernet Connection
     - Tarjeta gráfica -> UHD Graphics 630 
     - Núcleos -> 6 nucleos, 6 hilos
     
@@ -45,7 +42,6 @@
                         - Disco Duro: 50GB
                         - Procesador Núcleos: 2
                         - Tarjetas de red:
-                            - Red Interna
                             - Adaptador Puente
                    
                    Servidor de monitorización
@@ -55,14 +51,13 @@
                         - Disco Duro: 50GB
                         - Procesador Núcleos: 2
                         - Tarjetas de red:
-                            - Red Interna
                             - Adaptador Puente       
                    
 **- Especifícaciones físicas:**
     - Procesador -> I5 9 Generación 3.00Ghz
     - Disco Duro -> 250GB
     - RAM -> 16GB
-    - Tarejea de red -> Ethernet controller: Intel Corporation Ethernet Connection
+    - Tarjeta de red -> Ethernet controller: Intel Corporation Ethernet Connection
     - Tarjeta gráfica -> gráfica integrada UHD Graphics 630 
     - Núcleos -> 6 nucleos, 6 hilos de procesamiento
     
@@ -75,7 +70,6 @@
                         - Disco Duro: 50GB
                         - Procesador Núcleos: 2
                         - Tarjetas de red:
-                            - Red Interna
                             - Adaptador Puente
                             
                    Servidor empresarial secundario o adicional
@@ -84,7 +78,6 @@
                         - Disco Duro: 50GB
                         - Procesador Núcleos: 2
                         - Tarjetas de red:
-                            - Red Interna
                             - Adaptador
     
 **- Especifícaciones físicas:**
