@@ -62,7 +62,7 @@
     - Procesador -> I5 9 Generación 3.00Ghz
     - Disco Duro -> 250GB
     - RAM -> 16GB
-    - Tarejta de red -> Ethernet controller: Intel Corporation Ethernet Connection
+    - Tarejea de red -> Ethernet controller: Intel Corporation Ethernet Connection
     - Tarjeta gráfica -> gráfica integrada UHD Graphics 630 
     - Núcleos -> 6 nucleos, 6 hilos de procesamiento
     
@@ -91,6 +91,6 @@
     - Procesador -> I5 9 Generación 3.00Ghz
     - Disco Duro -> 250GB
     - RAM -> 16GB
-    - Tarejta de red -> Ethernet controller: Intel Corporation Ethernet Connection
+    - Tarjeta de red -> Ethernet controller: Intel Corporation Ethernet Connection
     - Tarjeta gráfica -> gráfica integrada UHD Graphics 630 
     - Núcleos -> 6 nucleos, 6 hilos de procesamiento
