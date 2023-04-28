@@ -1,7 +1,8 @@
 ## DELL 1
 **- Sistema Operativo y Servicios**
-    - S.O -> Lubuntu 22.04 (Interfaz gráfica)
-    - Servicios -> Servidor web intranet
+    - S.O -> Lubuntu 22.04 (Entorno gráfico)
+  
+  - Servicios -> Servidor web intranet
                         - S.O: Lubuntu 22.04 (Entorno Gráfico)
                         - RAM: 1GB
                         - Disco Duro: 20GB
@@ -35,8 +36,9 @@
     
 ## DELL 2
 **- Sistema Operativo y Servicios**
-    - S.O -> Lubuntu 22.04 (Interfaz gráfica)
-    - Servicios -> Servidor de aplicaciones y utilidades
+    - S.O -> Lubuntu 22.04 (Entorno gráfico)
+   
+   - Servicios -> Servidor de aplicaciones y utilidades
                         - S.O: Windows Server 2022 (Entorno Gráfico)
                         - RAM: 2GB
                         - Disco Duro: 50GB
@@ -63,7 +65,8 @@
     
 ## DELL 3
 **- Sistema Operativo y Servicios**
-    - S.O -> Lubuntu 22.04 (Interfaz gráfica)
+    - S.O -> Lubuntu 22.04 (Entorno gráfico)
+    
     - Servicios -> Servidor de Controlador de Dominio
                         - S.O: Windows Server 2022 (Entorno Gráfico)
                         - RAM: 2GB
