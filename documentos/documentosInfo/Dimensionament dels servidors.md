@@ -93,4 +93,4 @@
     - RAM -> 16GB
     - Tarejta de red -> Ethernet controller: Intel Corporation Ethernet Connection
     - Tarjeta gráfica -> gráfica integrada UHD Graphics 630 
-    - Núcleos -> 6 nucleos, 6 hilos de procesamiento.
+    - Núcleos -> 6 nucleos, 6 hilos de procesamiento
