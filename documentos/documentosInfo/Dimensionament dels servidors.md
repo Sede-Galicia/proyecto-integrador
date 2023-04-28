@@ -2,8 +2,8 @@
 **- Sistema Operativo y Servicios**
 
     - S.O -> Debian Server Bullsey (Interfaz gráfica)
-    - Servicios -> Servidor de Controlador de Dominio
-                   Servidor de Datos
+    - Servicios -> Servidor web intranet
+                   Servidor web extern
     
 **- Especifícaciones físicas:**
     - Procesador -> I5 9 Generación 3.00Ghz
@@ -34,8 +34,8 @@
 **- Sistema Operativo y Servicios**
 
     - S.O -> Debian Server Bullsey (Interfaz gráfica)
-    - Servicios -> Servidor web intranet
-                   Servidor web extern
+    - Servicios -> Servidor de Controlador de Dominio
+                   Servidor de Datos
     
 **- Especifícaciones físicas:**
 
