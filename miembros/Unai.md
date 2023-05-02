@@ -27,3 +27,8 @@ Hoy primeramente hemos estado en clase instalando una ISO de Debian, para instal
 ## Dia 5 (26/04/2023)
 
 Hoy hemos acabado de configurar el microtik para que algun equipo salga a internet, ahora vamos a ezpezar a configurar el switch y por último hemos hecho el plano de las IP's que tendra cada equipo de red y los equipos
+
+
+## Dia 6 (28/04/2023)
+
+Acabos de documentar el dimensionamientos de servidores y comprobamos que sistema operativo tenia cada servidor.
