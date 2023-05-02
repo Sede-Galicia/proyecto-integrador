@@ -31,4 +31,4 @@ Hoy hemos acabado de configurar el microtik para que algun equipo salga a intern
 
 ## Dia 6 (28/04/2023)
 
-Acabos de documentar el dimensionamientos de servidores y comprobamos que sistema operativo tenia cada servidor.
+Acabos de documentar el dimensionamientos de servidores y comprobamos que sistema operativo tenia cada servidor físico.
