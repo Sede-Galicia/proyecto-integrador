@@ -43,3 +43,15 @@
 - Realizamos un esquema de red en sucio, (en el taller). Esto nos servirá para aclarar mejor las ideas y plantear ya que fallos o que falta para configurar   el microtik
 - Hacemos primer contacto con la interfaz de configuración del switch de 8 bocas a través del navegador. Accedemos a la herramienta y reiniciamos el         dispositivo para quitar cualquier configuración previa como algunas VLAN's.
   Al principio no funcionaba ya que no estabamos en la misma red con lo cual no podíamos acceder a la dirección por LAN, problema resuelto.
+  
+  **02/05/2023 - Dia 7**
+  - Ausencia.
+  
+  **03/05/2023 - Dia 8**
+- Hoy hemos decidido empezar de 0 con el esquema de red ya que bajo mi punto de vista estabamos intenando configurar el ámbito con prisas sin antes saber y entender al 100% el trabajo a hacer. Han surgido dudas durante estos 8 días en el taller, tales como: 
+> ¿En que swich deberíamos crear las VLAN's?
+> Preguntas acerca de la red (gateway, ip's a configurar en el MicroTik)
+> Dudas también en la configuración del MicroTik al ser algo nuevo lo cual sumandole el no tener claro la infraestructura a montar nos ha dado como resultado preguntar y comenzar con buen paso.
+OPINION PERSONAL:
+- Aún así la asistencia al taller de hoy me ha gustado, he notado como he intenado buscar a una solución en vez de quedarme parado pensando. Se podría decir que me he notado con una actitud más resolutiva.
+- Con mi compañero Álex he preguntado a Juan acerca de ciertas dudas y nos la ha resuelto sin ningún problema (acerca del pach panel , switch y los equipos).
