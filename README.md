@@ -63,11 +63,11 @@
 
 ## Dia 6 (*Viernes 28 de Abril de 2023*)
 
-## Dia 7 (*Martes 02 de Mayo de 2023*)
+## Día 7 (martes 02 de mayo de 2023)
 
-- Hemos ido al taller y hemos realizado unas instalaciones de programas para que sea mas accesible la configuracion de los **TP-LINK** y poder manegar mas facil la interfaz.
+- Hemos ido al taller y hemos realizado unas instalaciones de programas para que sea más accesible la configuración de los TP-LINK y poder manejar más fácil la interfaz.
 
-- Hemos estado revisando el esquema de red ya que tenia unos fallos.
+- Hemos estado revisando el esquema de red, ya que tenía unos fallos.
 
 - Seguimos instalando sistemas operativos en los equipos.
 
