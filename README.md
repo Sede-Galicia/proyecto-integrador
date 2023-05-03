@@ -60,3 +60,12 @@
    > Al principio no funcionaba ya que no estabamos en la misma red con lo cual no   podíamos acceder a la dirección por LAN, problema resuelto.
    
 - **Resolvemos** el problema de las particiones, el cual era que la ISO descargada era de modo LEGACY cuando el PC tenía arranque UEFI.
+
+## Dia 6 (*Viernes 28 de Abril de 2023*)
+
+## Dia 7 (*Martes 02 de Mayo de 2023*)
+
+
+## Dia 8 (*Miércoles 03 de Mayo de 2023*)
+- 
+
