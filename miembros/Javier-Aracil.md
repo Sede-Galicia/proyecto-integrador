@@ -45,7 +45,7 @@
   Al principio no funcionaba ya que no estabamos en la misma red con lo cual no podíamos acceder a la dirección por LAN, problema resuelto.
   
   **02/05/2023 - Día 7**
-  - Ausencia.
+  - Terminamos el documento de dimensionamientos de servidores.
   
   **03/05/2023 - Día 8**
 - Hoy hemos decidido empezar de 0 con el esquema de red ya que bajo mi punto de vista estabamos intenando configurar el ámbito con prisas sin antes saber y entender al 100% el trabajo a hacer. Han surgido dudas durante estos 8 días en el taller, tales como: 
@@ -56,5 +56,5 @@
 > Dudas también en la configuración del MicroTik al ser algo nuevo lo cual sumandole el no tener claro la infraestructura a montar nos ha dado como resultado preguntar y comenzar con buen paso.
 
 - OPINION PERSONAL:
-- Aún así la asistencia al taller de hoy me ha gustado, he notado como he intenado buscar a una solución en vez de quedarme parado pensando. Se podría decir que me he notado con una actitud más resolutiva.
-- Con mi compañero Álex he preguntado a Juan acerca de ciertas dudas y nos la ha resuelto sin ningún problema (acerca del pach panel , switch y los equipos).
+  - Aún así la asistencia al taller de hoy me ha gustado, he notado como he intenado buscar a una solución en vez de quedarme parado pensando. Se podría decir que me he notado con una actitud más resolutiva.
+  - Con mi compañero Álex he preguntado a Juan acerca de ciertas dudas y nos la ha resuelto sin ningún problema (acerca del pach panel , switch y los equipos).
