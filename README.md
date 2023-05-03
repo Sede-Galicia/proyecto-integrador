@@ -21,13 +21,13 @@
 
 # Trabajo en el taller
 
-## Dia 0 (*Jueves 16 de Marzo de 2023*)
+## Día 0 (*Jueves 16 de Marzo de 2023*)
 - Hemos creado el Markdown grupal donde indicaremos todo lo que hemos hecho durante el Proyecto Integrador.
 
-## Dia 1 (*Martes 21 de Marzo de 2023*)
+## Día 1 (*Martes 21 de Marzo de 2023*)
 - Hemos organizado la zona de trabajo (quitar cables, posicionar ordenadores, descomtar patch-panel y demas) para que cuando vayamos al taller tenerlo todo listo para empezar.
 
-## Dia 2 (*Jueves 23 de Marzo de 2023*)
+## Día 2 (*Jueves 23 de Marzo de 2023*)
 - Hemos creado y/o organizado nuestro repositorio de GitHub como indica el documento del proyecto integrador, a continuacion se mostrara una lista en donde se especifica con detalle que es lo que se ha hecho.
   - Crear la carpeta **bitacora**
     > Aqui se guardaran los documentos de cada mes de trabajo en el taller.
@@ -39,7 +39,7 @@
   - Anadir los enlaces de los documentos de cada uno de los integrantes.
   - Modificar los ficheros de la carpeta **bitacora** con el formato requirido y anadir los enlaces de los documentos mensuales.
 
-## Dia 3 (*Viernes 24 de Marzo de 2023*)
+## Día 3 (*Viernes 24 de Marzo de 2023*)
 - Hemos vuelto a ir al taller para rematar el trabajo de ordenar todo, hemos posicionado mejor los ordenadores, terminado de sacar todos los elementos del rack que usaremos, conectado las pantallas y ordenadores para usarlos y hacer el inventario de todo lo que usaremos para el proyecto.
 
 <img src="https://i.imgur.com/JwJJjQI.jpeg">
@@ -48,11 +48,12 @@
 
 - Hemos creado la carpeta **inventario** para añadir el fichero inventario.md documentando todo lo que tendremos a nuestra disposicion para hacer el proyecto.
 
-## Dia 4 (*Miercoles 20 de Abril de 2023*)
-- Hemos ido al taller para configurar el **MikroTik** y dejarlo preparado para que los equipos puedan salir a Internet a traves de el.
-- Hemos empezado a instalar en los equipos los sistemas operativos que usaremos para nuestro proyecto, empezaremos con los ordenadores **DELL** instalando el sistema operativo **Debian 11 Con Entorno Grafico**, ya que en esos servidores físicos necesitaremos virtualizar otros servicios.
+## Día 4 (*Miercoles 20 de Abril de 2023*)
 
-## Dia 5 (*Miercoles 26 de Abril de 2023*)
+- Hemos ido al taller para configurar el **MikroTik** y dejarlo preparado para que los equipos puedan salir a Internet a través de él.
+- Hemos empezado a instalar en los equipos los sistemas operativos que usaremos para nuestro proyecto, empezaremos con los ordenadores DELL instalando el sistema operativo **Debian 11 Con Entorno Gráfico**, ya que en esos servidores físicos necesitaremos virtualizar otros servicios.
+
+## Día 5 (*Miercoles 26 de Abril de 2023*)
 - Continuamos configurando el **MicroTik**, hemos estando realizando distintas pruebas y cada vez estamos más cerca de lograr crear las redes.
 - Realizamos un **esquema de red** en sucio, (en el taller). Esto nos servirá para aclarar mejor las ideas y plantear ya que fallos o que falta para configurar   el microtik
 - Hacemos primer contacto con la interfaz de configuración del switch de 8 bocas a través del navegador. Accedemos a la herramienta y reiniciamos el dispositivo para quitar cualquier configuración previa como algunas VLAN's. 
@@ -61,7 +62,13 @@
    
 - **Resolvemos** el problema de las particiones, el cual era que la ISO descargada era de modo LEGACY cuando el PC tenía arranque UEFI.
 
-## Dia 6 (*Viernes 28 de Abril de 2023*)
+## Día 6 (*Viernes 28 de Abril de 2023*)
+- Hemos acabado de realizar el documento de dimensionamiento de equipos.
+
+
+- Hemos estado instalando sistemas operativos a los equipos.
+
+
 
 ## Día 7 (martes 02 de mayo de 2023)
 
@@ -71,7 +78,7 @@
 
 - Seguimos instalando sistemas operativos en los equipos.
 
-## Dia 8 (*Miércoles 03 de Mayo de 2023*)
+## Día 8 (*Miércoles 03 de Mayo de 2023*)
 - Empezamos el esquema de red de 0 debido a unos mal entendidos de infraestructura.
 - Juan nos ayuda en la explicación para enfocar bien el tema conexión entre los equipos y los swich.
 - Preparamos un USB con el programa Virtual Box para poder instalarlo en los servidores (para los que necesiten tener servicios virtualizados).
