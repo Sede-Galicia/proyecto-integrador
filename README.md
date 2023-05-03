@@ -57,7 +57,7 @@
 - Realizamos un **esquema de red** en sucio, (en el taller). Esto nos servirá para aclarar mejor las ideas y plantear ya que fallos o que falta para configurar   el microtik
 - Hacemos primer contacto con la interfaz de configuración del switch de 8 bocas a través del navegador. Accedemos a la herramienta y reiniciamos el dispositivo para quitar cualquier configuración previa como algunas VLAN's. 
 
-   > Al principio no funcionaba ya que no estabamos en la misma red con lo cual no   podíamos acceder a la dirección por LAN, problema resuelto.
+   > Al principio no funcionaba ya que no estabamos en la misma red con lo cual no podíamos acceder a la dirección por LAN, problema resuelto.
    
 - **Resolvemos** el problema de las particiones, el cual era que la ISO descargada era de modo LEGACY cuando el PC tenía arranque UEFI.
 
@@ -67,5 +67,8 @@
 
 
 ## Dia 8 (*Miércoles 03 de Mayo de 2023*)
-- 
+- Empezamos el esquema de red de 0 debido a unos mal entendidos de infraestructura.
+- Juan nos ayuda en la explicación para enfocar bien el tema conexión entre los equipos y los swich.
+- Preparamos un USB con el programa Virtual Box para poder instalarlo en los servidores (para los que necesiten tener servicios virtualizados).
+- Reseteamos 2 swichs
 
