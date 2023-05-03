@@ -37,3 +37,8 @@ Acabos de documentar el dimensionamientos de servidores y comprobamos que sistem
 ## Dia 7 (2/05/2023)
 
 Como estubimos solo una hora no nos dio tiempo a hacer mucho, pero avanzamos un poco en la configuración de la red.
+
+
+## Dia 8 (3/05/2023)
+
+Hoy hemos seguido configurando la red y hemos vuelto a intentar reestructurar el esquema de red y hemos decidido donde crearemos cada VLAN y que ira conectado a que
