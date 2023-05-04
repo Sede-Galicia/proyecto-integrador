@@ -42,3 +42,8 @@ Como estubimos solo una hora no nos dio tiempo a hacer mucho, pero avanzamos un 
 ## Dia 8 (3/05/2023)
 
 Hoy hemos seguido configurando la red y hemos vuelto a intentar reestructurar el esquema de red y hemos decidido donde crearemos cada VLAN y que ira conectado a que
+
+
+## Dia 9 (4/05/2023)
+
+Hemos conectado 8 cables al patchpanel que con 8 nos referimos a los equipo físicos que tenemos y hemos comprobado el funcionamiento de los cables
