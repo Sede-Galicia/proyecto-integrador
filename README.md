@@ -70,7 +70,7 @@
 
 
 
-## Día 7 (martes 02 de mayo de 2023)
+## Día 7 (*Martes 2 de Mayo de 2023*)
 
 - Hemos ido al taller y hemos realizado unas instalaciones de programas para que sea más accesible la configuración de los TP-LINK y poder manejar más fácil la interfaz.
 
@@ -78,9 +78,28 @@
 
 - Seguimos instalando sistemas operativos en los equipos.
 
-## Día 8 (*Miércoles 03 de Mayo de 2023*)
+## Día 8 (*Miércoles 3 de Mayo de 2023*)
 - Empezamos el esquema de red de 0 debido a unos mal entendidos de infraestructura.
 - Juan nos ayuda en la explicación para enfocar bien el tema conexión entre los equipos y los swich.
 - Preparamos un USB con el programa Virtual Box para poder instalarlo en los servidores (para los que necesiten tener servicios virtualizados).
 - Reseteamos 2 swichs
 
+## Día 9 (*Miércoles 4 de Mayo de 2023*)
+- Hemos empezado a instalar Windows 10 Pro en los ordenadores con procesadores Intel *Pentium Gold* para que hagan de clientes.
+- Hemos creado las maquinas virtuales de los servidores que usaremos en los ordenadores *DELL*, todavia queda instalar los servidores y configurarlos.
+- Hemos etiquetado los ordenadores
+> En los ordenadores *DELL* los hemos etiquetado de la siguiente forma.
+  - Nombre de la maquina.
+  - Contraseña de la maquina.
+  - Servidores que tiene la maquina.
+  - La memoria RAM que tiene el ordenador
+  
+Apuntamos la memoria RAM porque no todos tienen la misma cantidad de RAM, asi sabemos cual es cual con mas seguridad.
+
+> En los ordenadores con *Pentium Gold* los hemos etiquetado de la siguiente forma.
+  - Nombre de la maquina.
+  - Constraseña de la maquina.
+  
+Como estos no albergaran servidores consideramos que con solamente esa informacion sera suficiente.
+
+> Con los 2 ultimos ordenadores que nos quedan tambien los usaremos como clientes Windows 10 Pro y la forma de etiquetado sera la misma.
