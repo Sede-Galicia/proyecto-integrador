@@ -47,3 +47,8 @@ Hoy hemos seguido configurando la red y hemos vuelto a intentar reestructurar el
 ## Dia 9 (4/05/2023)
 
 Hemos conectado 8 cables al patchpanel que con 8 nos referimos a los equipo físicos que tenemos y hemos comprobado el funcionamiento de los cables
+
+
+## Dia 10 (5/05/2023)
+
+Hemos terminado de configurar el patchpanel las 8 bocas necesarias para las equipos y lo hemos montado en el rack y pasado los cables por detrás del rack y por último he ayudado a configurar un poco las VLAN
