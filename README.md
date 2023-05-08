@@ -84,7 +84,6 @@
 - Preparamos un USB con el programa Virtual Box para poder instalarlo en los servidores (para los que necesiten tener servicios virtualizados).
 - Reseteamos 2 swichs
 
-## Día 9 (*Miércoles 4 de Mayo de 2023*)
 - Hemos empezado a instalar Windows 10 Pro en los ordenadores con procesadores Intel *Pentium Gold* para que hagan de clientes.
 - Hemos creado las maquinas virtuales de los servidores que usaremos en los ordenadores *DELL*, todavia queda instalar los servidores y configurarlos.
 - Hemos etiquetado los ordenadores
@@ -103,3 +102,11 @@ Apuntamos la memoria RAM porque no todos tienen la misma cantidad de RAM, asi sa
 Como estos no albergaran servidores consideramos que con solamente esa informacion sera suficiente.
 
 > Con los 2 ultimos ordenadores que nos quedan tambien los usaremos como clientes Windows 10 Pro y la forma de etiquetado sera la misma.
+
+## Día 9 (*Viernes 5 de Mayo de 2023*)
+
+- Hemos acabado de colocar los cables correctos en el patch panel y colocarlo en el CPD.
+- Hemos organizado todo el CPD y los cables que estaban en el area de Trabajo.
+- Hemos seguido instalando Sistemas operativos en los equipo y servidores.
+- Hemos empezado a Crear las VLAN en el Switch **TP-LINK**.
+
