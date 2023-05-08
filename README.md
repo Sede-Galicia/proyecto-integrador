@@ -107,6 +107,6 @@ Como estos no albergaran servidores consideramos que con solamente esa informaci
 
 - Hemos acabado de colocar los cables correctos en el patch panel y colocarlo en el CPD.
 - Hemos organizado todo el CPD y los cables que estaban en el area de Trabajo.
-- Hemos seguido instalando Sistemas operativos en los equipo y servidores.
+- Hemos seguido con la configuracion y instalacion de sistemas operativos en los equipos restantes.
 - Hemos empezado a Crear las VLAN en el Switch **TP-LINK**.
 
