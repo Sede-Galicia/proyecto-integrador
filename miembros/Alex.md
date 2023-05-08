@@ -22,3 +22,5 @@ Descargamos unas aplicaciones para que resultara más fácil la configuración d
 
 # Día 8 (3/05/2023)
 Hemos estado configurando la red un poco, pero hemos tenido varios problemas y hemos decidido volver a rehacer toda la red y el esquema de red y hemos seguido instalando los sistemas operativos en los equipos.
+# Día 9 (5/05/2023)
+Hemos estado configurando las vlan en el switch **tp-link** y seguido con la configuracion y instalacion de sistemas operativos en los equipos restantes y hemos acabado de colocar los cables en el **patch panel**.
