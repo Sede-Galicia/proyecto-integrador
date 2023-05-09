@@ -30,3 +30,6 @@ Hoy hemos seguido configurando la red y hemos vuelto a intentar reestructurar el
 Dia 9 (4/05/2023)
 
 Hemos instalado 8 cables en el patch panel para habilitar las 8 bocas
+
+Dia 10 (5/05/2023)
+Organizamos el switch el patch panel y los cables en el rack 
