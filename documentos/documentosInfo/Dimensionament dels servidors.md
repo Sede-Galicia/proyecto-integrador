@@ -47,7 +47,7 @@
                             - Adaptador Puente
                    
                    Servidor de monitorización
-                        - S.O: Windows Server 2022 (Entorno Gráfico)
+                        - S.O: Ubuntu Server 22.04 (Entorno gráfico)
                         - Aplicación para monitorización de redes: Zabbix
                         - RAM: 2GB
                         - Disco Duro: 50GB
