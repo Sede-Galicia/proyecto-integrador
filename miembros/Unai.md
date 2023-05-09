@@ -52,3 +52,8 @@ Hemos conectado 8 cables al patchpanel que con 8 nos referimos a los equipo fís
 ## Dia 10 (5/05/2023)
 
 Hemos terminado de configurar el patchpanel las 8 bocas necesarias para las equipos y lo hemos montado en el rack y pasado los cables por detrás del rack y por último he ayudado a configurar un poco las VLAN
+
+
+## Dia 11 (6/05/2023)
+
+He encendido los servidores y en uno de ellos he instalado dos servicios virtualizados, y en otro servidor he arreglado un problema con el VirtualBox y he instaldo un servicio más.
