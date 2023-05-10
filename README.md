@@ -106,3 +106,6 @@ Como estos no albergaran servidores consideramos que con solamente esa informaci
 - Hemos hecho el esquema de red en Cisco Packet Tracer para el montaje de la red de la sede.
 
 <img src="https://i.imgur.com/QVlaDZ7.png">
+
+## Día 11 (*Miercoles 1o de Mayo de 2023*)
+-
