@@ -107,5 +107,5 @@ Como estos no albergaran servidores consideramos que con solamente esa informaci
 
 <img src="https://i.imgur.com/QVlaDZ7.png">
 
-## Día 11 (*Miercoles 1o de Mayo de 2023*)
+## Día 11 (*Miercoles 10 de Mayo de 2023*)
 -
