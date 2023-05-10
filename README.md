@@ -49,7 +49,6 @@
 - Hemos creado la carpeta **inventario** para añadir el fichero inventario.md documentando todo lo que tendremos a nuestra disposicion para hacer el proyecto.
 
 ## Día 4 (*Miercoles 20 de Abril de 2023*)
-
 - Hemos ido al taller para configurar el **MikroTik** y dejarlo preparado para que los equipos puedan salir a Internet a través de él.
 - Hemos empezado a instalar en los equipos los sistemas operativos que usaremos para nuestro proyecto, empezaremos con los ordenadores DELL instalando el sistema operativo **Debian 11 Con Entorno Gráfico**, ya que en esos servidores físicos necesitaremos virtualizar otros servicios.
 
@@ -64,18 +63,11 @@
 
 ## Día 6 (*Viernes 28 de Abril de 2023*)
 - Hemos acabado de realizar el documento de dimensionamiento de equipos.
-
-
 - Hemos estado instalando sistemas operativos a los equipos.
 
-
-
 ## Día 7 (*Martes 2 de Mayo de 2023*)
-
 - Hemos ido al taller y hemos realizado unas instalaciones de programas para que sea más accesible la configuración de los TP-LINK y poder manejar más fácil la interfaz.
-
 - Hemos estado revisando el esquema de red, ya que tenía unos fallos.
-
 - Seguimos instalando sistemas operativos en los equipos.
 
 ## Día 8 (*Miércoles 3 de Mayo de 2023*)
@@ -104,9 +96,13 @@ Como estos no albergaran servidores consideramos que con solamente esa informaci
 > Con los 2 ultimos ordenadores que nos quedan tambien los usaremos como clientes Windows 10 Pro y la forma de etiquetado sera la misma.
 
 ## Día 9 (*Viernes 5 de Mayo de 2023*)
-
-- Hemos acabado de colocar los cables correctos en el patch panel y colocarlo en el CPD.
-- Hemos organizado todo el CPD y los cables que estaban en el area de Trabajo.
+- Hemos acabado de montar el patch panel y colocarlo en el CPD.
+- Hemos organizado todo el CPD y los cables que estaban en el area de trabajo.
 - Hemos seguido con la configuracion y instalacion de sistemas operativos en los equipos restantes.
-- Hemos empezado a Crear las VLAN en el Switch **TP-LINK**.
 
+## Día 10 (*Martes 9 de Mayo de 2023*)
+- Hemos terminado de instalar los sistemas de todos los equipos de la sede.
+- Hemos etiquetado todos los equipos de la sede con su hostname y password y el sistema que tiene instalado.
+- Hemos hecho el esquema de red en Cisco Packet Tracer para el montaje de la red de la sede.
+
+<img src="https://i.imgur.com/QVlaDZ7.png">
