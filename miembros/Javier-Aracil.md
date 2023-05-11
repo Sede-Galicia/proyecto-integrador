@@ -53,11 +53,12 @@
   
   **03/05/2023 - Día 8**
 * Hoy hemos decidido empezar de 0 con el esquema de red ya que bajo mi punto de vista estabamos intenando configurar el ámbito con prisas sin antes saber y entender al 100% el trabajo a hacer. Han surgido dudas durante estos 8 días en el taller, tales como: 
-* ¿En que swich deberíamos crear las VLAN's? - En los 2 switchs ubicados en el CPD.
 
-* Preguntas acerca de la red (infraestrucutura en general, gateway, ip's a configurar en el MicroTik)
+  * ¿En que swich deberíamos crear las VLAN's? - En los 2 switchs ubicados en el CPD.
 
-* Dudas también en la configuración del MicroTik al ser algo nuevo lo cual sumandole el no tener claro la infraestructura a montar nos ha dado como resultado preguntar y comenzar con buen paso.
+  * Preguntas acerca de la red (infraestrucutura en general, gateway, ip's a configurar en el MicroTik)
+
+  * Dudas también en la configuración del MicroTik al ser algo nuevo lo cual sumandole el no tener claro la infraestructura a montar nos ha dado como resultado preguntar y comenzar con buen paso.
 
 * OPINION PERSONAL:
   * Aún así la asistencia al taller de hoy me ha gustado, he notado como he intenado buscar a una solución en vez de quedarme parado pensando. Se podría     decir que me he notado con una actitud más resolutiva.
