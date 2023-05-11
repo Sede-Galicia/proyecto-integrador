@@ -57,3 +57,18 @@ Hemos terminado de configurar el patchpanel las 8 bocas necesarias para las equi
 ## Dia 11 (6/05/2023)
 
 He encendido los servidores y en uno de ellos he instalado dos servicios virtualizados, y en otro servidor he arreglado un problema con el VirtualBox y he instaldo un servicio más.
+
+
+## Dia 12 (9/05/2023)
+
+He acabado de instalar los sistemas operativos en los servidorres y hemos seguido configurando VLAN's
+
+
+## Dia 13 (10/05/2023)
+
+He acabado de instalar algún sisteme operatico virtualiza y hemos configurado VLAN's en el switch TP-LINK
+
+
+## Dia 14 (11/05/2023)
+
+Hoy porfin hemos terminado de configurar las VLAN's y ya están en pleno funcionamiento
