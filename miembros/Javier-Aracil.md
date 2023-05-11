@@ -63,3 +63,48 @@
 * OPINION PERSONAL:
   * Aún así la asistencia al taller de hoy me ha gustado, he notado como he intenado buscar a una solución en vez de quedarme parado pensando. Se podría     decir que me he notado con una actitud más resolutiva.
   * Con mi compañero Álex he preguntado a Juan acerca de ciertas dudas y nos la ha resuelto sin ningún problema (acerca del pach panel , switch y los equipos).
+
+**04/05/2023 - Día 9**
+
+**09/05/2023 - Día 10**
+* Instalamos sistemas operativos en los clientes.
+* Preparamos dudas respecto a las VLAN'S para preguntar mañana.
+* Se organiza los cables del Pach Panel y se enumeran.
+* Al igual que instalamos sistemas en los clientes, en los virtual box de los Servidores comprobamos y instalamos los sistemas que van a ir virtualizados [Ubuntu Server 22.04 & Windows Server].
+
+**10/05/2023 - Día 11**
+* Probamos a configurar el bounding aunque luego más tarde Raúl ha dicho que lo dejemos temporalmente porque lo explicará en clase.
+* Configuramos unas reglas de Firewall en el MicroTik y logramos tener conectividad a Internet desde la VLAN3, habiamos conseguido lo que tanto tiempo y problema nos estaba dando.
+* Hacemos unas cuantas comprobaciones más y pasamos ya a configurar las 11 VLANS a los puertos del Switch:
+    
+    | VLAN | Puerto |
+    | ---- | ------ |
+    |  V3  |   3    |
+    |  V4  |   4    |
+    |  V5  |   5    |
+    |  V6  |   6    |
+    |  V7  |   7    |
+    |  V8  |   8    |
+    |  V9  |   9    |
+    |  V10 |   10   |
+    |  V11 |   11   |
+    
+* Pasos a seguir [MicroTik & Switch]:
+ MicroTik:
+ 1. En un equipo con un Windows instalado descargaremos la herramienta WinBox para poder configurar el MicroTik.
+ 2. Una vez en la pantalla inicial de la herramienta deberemos conectar un cable de red. Este irá desde el MicroTik hasta nuestro puerto de red de nuestro PC Windows.
+ 3. Ya estando conectados se nos mostrará la dirección MAC del MicroTik, bastará con seleccionarla y darle al boton 'Conectar'.
+ 4. Ahora nos encontramos en la página principal donde tenemos un menu a la izquierda donde podemos configurar bastantes aspectos tales como [ Reglas Firewall, Servicio DHCP, Crear VLAN'S, Crear Redes, etc. ] 
+ 5. 
+Switch [24 bocas]:
+1. Para acceder al login de su configuración lo primero a hacer será conectar un cable RJ-45 al switch que vaya hasta nuestro puerto de red. Después accedimos al navegador Firefox, allí buscamos la dirección [192.168.0.1].
+2. Si todo va bien una vez le demos a buscar nos redirigirá a el login del TP-LINK.
+3. Insertamos las credenciales de Administrador y accedimos a la configuración del Switch.
+4. Ir a la pestaña al lado izquierdo con nombre VLAN.
+5. Creamos la VLAN con su PVID, Nombre y sus puertos Tagged[ Hosts ] y Untagged[ Trunk ].
+6. Nos movemos a la otra pestaña que hay dentro de VLAN > Port Config. Aquí deberemos asignar el número PVID de la VLAN a los puertos que se necesiten. 
+
+
+
+    
+    
