@@ -108,4 +108,6 @@ Como estos no albergaran servidores consideramos que con solamente esa informaci
 <img src="https://i.imgur.com/QVlaDZ7.png">
 
 ## Día 11 (*Miercoles 10 de Mayo de 2023*)
--
+- Hemos terminado de instalar todos los sistemas operativos que estan virtualizados en los ordenadores DELL.
+- Estamos tratando de hacer funcionar la red, esto es clave ya que si no tenemos nuestra red montada no podemos configurar nada de nuestros servidores.
+- Hemos subido el esquema de red y el fichero del esquema de red en una nueva carpeta llamada red, la cual es accesible haciendo clic [aqui](https://github.com/Sede-Galicia/proyecto-integrador/tree/main/red).
