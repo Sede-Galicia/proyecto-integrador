@@ -41,3 +41,6 @@ Estamos arreglando las conexiones vlan del switch
 
 # Dia 13 (11/05/2023)
 Hemos terminado de arreglar las conexiones vlan, y ahora vamos ha hacer una conexion trunk al switch de cisco
+
+# Dia 14 (12/03/2023)
+Hoy hemos habilitado 7 bocas mas en el patch panel, tambien hemos reorganizado la distribucion de ordenadores y pantallas, hemos habilitado mediante un empalme una toma de electricidad de 3 bocas.
