@@ -104,7 +104,8 @@ Switch [24 bocas]:
 5. Creamos la VLAN con su PVID, Nombre y sus puertos Tagged[ Hosts ] y Untagged[ Trunk ].
 6. Nos movemos a la otra pestaña que hay dentro de VLAN > Port Config. Aquí deberemos asignar el número PVID de la VLAN a los puertos que se necesiten. 
 
-
+**15/05/2023 - Día 11**
+1. Instalo y configuro el Apache2 en nuestro Ubuntu Server 20.04, obviamente tuvimos que aplicar una configuración de red [192.168.0.x] y cambiar la tarjeta de red de NAT a Adaptador Puente. Una vez se aplicó comprobe IP's y entre 
 
     
     
