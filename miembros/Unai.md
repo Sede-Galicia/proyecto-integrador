@@ -72,3 +72,8 @@ He acabado de instalar algún sisteme operatico virtualiza y hemos configurado V
 ## Dia 14 (11/05/2023)
 
 Hoy porfin hemos terminado de configurar las VLAN's y ya están en pleno funcionamiento
+
+
+## Dias 15 (15/05/2023)
+
+Hemos acabado de configurar los cables del patch panel y lo hemos pueste de vuleta en el rack y por último hemos seguido configurando VLAN's para intentar que se vean entre si y poder unir correctamente los clientes al dominio.
