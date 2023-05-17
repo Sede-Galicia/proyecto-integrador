@@ -126,3 +126,5 @@ Switch [24 bocas]:
 
  2. Nos ponemos a buscar actualizaciones sobre el controlador del cable serial para así poder configurar el otro switch (24 bocas).
  3. Mis compañero Unai se dedica a intentar dar conexión entre una VLAN (3.x,4.x,5.x …) a la VLAN11.
+
+**17-05-2023 - Día 13**
