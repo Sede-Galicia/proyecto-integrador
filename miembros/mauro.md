@@ -44,3 +44,9 @@ Hemos terminado de arreglar las conexiones vlan, y ahora vamos ha hacer una cone
 
 # Dia 14 (12/03/2023)
 Hoy hemos habilitado 7 bocas mas en el patch panel, tambien hemos reorganizado la distribucion de ordenadores y pantallas, hemos habilitado mediante un empalme una toma de electricidad de 3 bocas.
+
+# Dia 15 (15/03/2023)
+Hoy hemos comprobado que todas las bocas del patch panel estaban bien hechas, y terminar de instalar los servidores virtualizados
+
+# Dia 16 (16/03/2023)
+Estamos configurando la vision entre vlans, por ejemplo la 11 es la vlan de servidores, y queremos que la 11 se vea con todas pero que la vlan 3 y 6 por ejemplo, no se vea entre ellas.
