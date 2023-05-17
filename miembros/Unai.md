@@ -74,6 +74,11 @@ He acabado de instalar algún sisteme operatico virtualiza y hemos configurado V
 Hoy porfin hemos terminado de configurar las VLAN's y ya están en pleno funcionamiento
 
 
-## Dias 15 (15/05/2023)
+## Dia 15 (15/05/2023)
 
 Hemos acabado de configurar los cables del patch panel y lo hemos pueste de vuleta en el rack y por último hemos seguido configurando VLAN's para intentar que se vean entre si y poder unir correctamente los clientes al dominio.
+
+
+## Dia 16 (16/05/2023)
+
+He seguido configurando las VLAN's para que se vean entre si pero no lo hemos conseguido y también hemos configurado el Servidor DHCP en el microtik para que les reparta IP a los clientes pero los servidores tendrán IP estatiaca.
