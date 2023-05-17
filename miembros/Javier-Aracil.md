@@ -105,7 +105,24 @@ Switch [24 bocas]:
 6. Nos movemos a la otra pestaña que hay dentro de VLAN > Port Config. Aquí deberemos asignar el número PVID de la VLAN a los puertos que se necesiten. 
 
 **15/05/2023 - Día 11**
-1. Instalo y configuro el Apache2 en nuestro Ubuntu Server 20.04, obviamente tuvimos que aplicar una configuración de red [192.168.0.x] y cambiar la tarjeta de red de NAT a Adaptador Puente. Una vez se aplicó comprobe IP's y entre 
+ 1. Instalo y configuro el Apache2 en nuestro Ubuntu Server 20.04, obviamente tuvimos que aplicar una configuración de red [192.168.0.x] y cambiar la tarjeta de red de NAT a Adaptador Puente.
+ 2. Se colocan los cables restantes al pach panel.
+ 3. Planteamos que para que los servidores como el DC (los cuales tienen que estar en la misma red) debemos hacer que las VLAN’s de los clientes se puedan comunicar con la VLAN de los servidores[v11].
 
-    
-    
+**16-05-2023 - Día 12**
+ 1. Preparamos la estructura de los PC clientes con el archivo 3.3 del proyecto integrador.
+ 1.1. En el cli02 hemos virtualizado un PC para:
+     - ‘Departamento de Recepción.
+     - ‘Departamento de Administración. 
+     - [ Total 2 PC’s virtuales ]
+ 1.2. En el cli01 hemos hecho lo mismo que con el cli02, los departamentos son: 
+     - Departamento de laboratorio.
+     - Departamento de administración.
+     - [ Total 2 PC’s virtuales ]
+ 1.3. En el cli03 los departamentos son: 
+     - Almacén.
+     - Departamento de producción.
+     - [ Total 2 PC’s virtuales ]
+
+ 2. Nos ponemos a buscar actualizaciones sobre el controlador del cable serial para así poder configurar el otro switch (24 bocas).
+ 3. Mis compañero Unai se dedica a intentar dar conexión entre una VLAN (3.x,4.x,5.x …) a la VLAN11.
