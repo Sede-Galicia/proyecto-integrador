@@ -117,17 +117,19 @@
 **16-05-2023 - Día 12**
  1. Preparamos la estructura de los PC clientes con el archivo 3.3 del proyecto integrador.
  1.1. En el cli02 hemos virtualizado un PC para:
-     - ‘Departamento de Recepción.
-     - ‘Departamento de Administración. 
-     - [ Total 2 PC’s virtuales ]
+     -  Departamento de Recepción.
+     -  Departamento de Administración. 
+     -  [ Total 2 PC’s virtuales ]
+     
  1.2. En el cli01 hemos hecho lo mismo que con el cli02, los departamentos son: 
-     - Departamento de laboratorio.
-     - Departamento de administración.
-     - [ Total 2 PC’s virtuales ]
+    - Departamento de laboratorio
+    - Departamento de administración
+    - [ Total 2 PC's virtuales ]
+     
  1.3. En el cli03 los departamentos son: 
-     - Almacén.
-     - Departamento de producción.
-     - [ Total 2 PC’s virtuales ]
+   - Almacén
+   - Departamento de producción
+   - [ Total 2 PC's virtuales ]
 
  2. Nos ponemos a buscar actualizaciones sobre el controlador del cable serial para así poder configurar el otro switch (24 bocas).
  
