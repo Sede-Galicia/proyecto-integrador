@@ -111,3 +111,22 @@ Como estos no albergaran servidores consideramos que con solamente esa informaci
 - Hemos terminado de instalar todos los sistemas operativos que estan virtualizados en los ordenadores DELL.
 - Estamos tratando de hacer funcionar la red, esto es clave ya que si no tenemos nuestra red montada no podemos configurar nada de nuestros servidores.
 - Hemos subido el esquema de red y el fichero del esquema de red en una nueva carpeta llamada red, la cual es accesible haciendo clic [aqui](https://github.com/Sede-Galicia/proyecto-integrador/tree/main/red).
+
+## Dia 12-17 (*Viernes 12 de Mayo de 2023 hasta Lunes 22 de Mayo de 2023*)
+- Estos dias hemos estado configurando la red.
+  - VLANs
+    - Las VLANs han sido creadas en el MikroTik, mas especificamente en la interficie 2, estas VLANs son transferidas por red hasta el switch TP-LINK en el que se podran usar las VLANs a traves de dicho switch, pero ademas tambien tenemos el switch CISCO, en el CISCO solamente pasaremos la VLAN 11 (La VLAN de servidores) mediante un TRUNK con el switch TP-LINK porque solamente lo usaremos para los servidores.
+  - Switch TP-LINK
+    - El switch TP-LINK tiene las VLANs que trae el MicroTik de forma que ya podemos conectar a la red los distintos equipos clientes.
+  - Switch CISCO
+    - El switch CISCO tiene solamente la VLAN 11 gracias a un TRUNK entre el switch TP-LINK y el switch CISCO porque solamente se conectaran los servidores.
+
+Hemos completado la instalacion de los sistemas operativos virtualizados que tendran los clientes a modo de prueba como indica el documento del proyecto 3.3
+
+Estamos empezando a instalar el Zabbix en un Ubuntu Desktop 20.04 LTS para monitorizar todos los equipos de la sede.
+
+Se han añadido mas cables al Patch-panel y ordenado los cables del CPD para tener una mejor organizacion.
+
+En el servidor de Active Directory se crearon las unidades organizativas de los distintos grupos de usuarios, los grupos de los distintos departamentos y unido al dominio los clientes que estan virtualizados en los clientes Windows 10.
+
+Instalar el servidor web para la intranet, estamos usando Apache2.
