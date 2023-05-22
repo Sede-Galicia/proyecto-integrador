@@ -82,3 +82,8 @@ Hemos acabado de configurar los cables del patch panel y lo hemos pueste de vule
 ## Dia 16 (16/05/2023)
 
 He seguido configurando las VLAN's para que se vean entre si pero no lo hemos conseguido y también hemos configurado el Servidor DHCP en el microtik para que les reparta IP a los clientes pero los servidores tendrán IP estatiaca.
+
+
+## Dia 17 (19/05/2023)
+
+Hemos acabado de instalar los clientes virtualizados en los clientes host y ya hemos conectado todos los cables que salen del patch panel a los equipos y servidores físicos y por último uní los algunos clientes al dominio **galicia.lan
