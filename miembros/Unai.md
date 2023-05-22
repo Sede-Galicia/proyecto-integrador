@@ -86,4 +86,4 @@ He seguido configurando las VLAN's para que se vean entre si pero no lo hemos co
 
 ## Dia 17 (19/05/2023)
 
-Hemos acabado de instalar los clientes virtualizados en los clientes host y ya hemos conectado todos los cables que salen del patch panel a los equipos y servidores físicos y por último uní los algunos clientes al dominio **galicia.lan
+Hemos acabado de instalar los clientes virtualizados en los clientes host y ya hemos conectado todos los cables que salen del patch panel a los equipos y servidores físicos y por último uní los algunos clientes al dominio **galicia.lan**
