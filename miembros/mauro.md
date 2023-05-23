@@ -42,11 +42,23 @@ Estamos arreglando las conexiones vlan del switch
 # Dia 13 (11/05/2023)
 Hemos terminado de arreglar las conexiones vlan, y ahora vamos ha hacer una conexion trunk al switch de cisco
 
-# Dia 14 (12/03/2023)
+# Dia 14 (12/05/2023)
 Hoy hemos habilitado 7 bocas mas en el patch panel, tambien hemos reorganizado la distribucion de ordenadores y pantallas, hemos habilitado mediante un empalme una toma de electricidad de 3 bocas.
 
-# Dia 15 (15/03/2023)
+# Dia 15 (15/05/2023)
 Hoy hemos comprobado que todas las bocas del patch panel estaban bien hechas, y terminar de instalar los servidores virtualizados
 
-# Dia 16 (16/03/2023)
+# Dia 16 (16/05/2023)
 Estamos configurando la vision entre vlans, por ejemplo la 11 es la vlan de servidores, y queremos que la 11 se vea con todas pero que la vlan 3 y 6 por ejemplo, no se vea entre ellas.
+
+# Dia 17 (17/05/2023)
+Habilitamos 7 bocas mas del patch panel, y estuvimos terminando de configurar las ip
+
+# Dia 18 (18/05/2023)
+Etiquetamos las bocas del Patch panel, para los respectivos departamentos
+
+# Dia 19 (19/05/2023)
+Estuvimos asignando a cada ordenador que ip iba a tener, tambien, ordenamos quer bocas se les asignaba del switch al patch panel
+
+# Dia 20 (23/05/2023)
+Introdujimos los clientes con sus respectivas ip´s al controlador de dominio de galicia.lan
