@@ -151,4 +151,40 @@
       2. Para configurar el trunk en la boca: 2/0/2 hay que escribir -> switchport mode trunk. 
  * Probamos el cable 17 del PACH Panel ya que teníamos dudas de si estaba funcionando bien realmente, sin embargo si estaba correcto y daba señal aunque el cable no funciona en el pc.
  * Configuramos 2 nuevas reglas Firewall de un cliente Windows para hacer unas pruebas de ping. Por desgracia no hemos conseguido que sepa quien le esta enviando los paquetes aunque por lo menos llegar llegan.
- * En el servidor DC creamos Unidades Organizativas, Grupos (gg, …).
+
+**22-03-2023 - Día 15**
+* Clientes unidos al dominio:
+  * Cli01[Almacén y producción] y Cli03[Depart. Técnico y Laboratorio]
+  * Falta Cli02[Recepción y Depart. Administración]
+* Instalo entorno Ubuntu desktop 20.04 para instalar la herramienta Zabbix (herramienta de monitorización).
+
+**23-03-2023 - Día 16**
+* Instalo una ova de Debian11 sin entorno gráfico. En ella aplicó apt update y apt upgrade para actualizar todo lo que esté pendiente. A continuación me conecto vía ssh (poniendo la máquina en adaptador puente, asignando una IP privada de la VLAN11, etc…) desde la máquina principal. Con esto configurado he hecho la conexión y me he ido a instalar MariaDB y el Zabbix.
+* Para MariaDB:
+  * actualizamos con apt update
+  * sudo apt install mariadb-server
+  * sudo mysql_secure_install
+* Para Zabbix:
+    foto
+* Credenciales de acceso Zabbix:
+  * user=Admin
+  * passwd=password
+* IP’s server01:
+  * Servidor de monitorización -> 192.168.11.50
+  * Servidor de aplicaciones -> 192.168.11.51
+* Uno el servidor de aplicaciones y utilidades al dominio galicia.lan 
+
+**24-05-2023 - Día 17**
+* Uno el servidor de aplicaciones y utilidades al monitoreo del Zabbix y al dominio
+
+**25-05-2023 - Día 18**
+* Voy a realizar las particiones LVM en los servidores GNU/Linux. Primero empiezo con el servidor de monitorización.
+* LVM en Srv-Moni:
+
+
+  * Añado 4 discos de 10GB cada uno.
+  * Me conecto ssh a la 11.50 y hago lsblk para ver el listado de discos ( sdb , sdc , sdd, sde ).
+  * Creo los volúmenes físicos:
+      image
+  * Creo el grupo de volúmenes a partir de los volúmenes físicos:
+      image
