@@ -87,3 +87,12 @@ He seguido configurando las VLAN's para que se vean entre si pero no lo hemos co
 ## Dia 17 (19/05/2023)
 
 Hemos acabado de instalar los clientes virtualizados en los clientes host y ya hemos conectado todos los cables que salen del patch panel a los equipos y servidores físicos y por último uní los algunos clientes al dominio **galicia.lan**.
+
+
+## Dia 18 (23/05/2023)
+
+He introducido el servidor de controlador secundario al dominio **galacia.lan** y también he echo este servidor como controlador secundario de dominio y he configurado un poco el script de creación de usuarios.
+
+## Dia 19 (25/05/2023)
+
+He seguido configurando el script de usuarios en el servidor de  dominio, también he creado las unidades organizativas correspondientes y los grupos y por último hemos intalado en zabix agent en el servidor secundario para en el servidor zabix monitorizar este servidor.
