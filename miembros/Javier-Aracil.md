@@ -141,14 +141,14 @@
 **18-05-2023 - Día 14**
  * Configuramos la VLAN 11 en el Switch Cisco, lo hacemos creándola en el switch y asignándole los puertos [12, 14, 16, 18, 20, 22 y 24].
  * Comandos:
- * - Para crear VLAN:
-     * vlan 11
-     * name ‘Servidores’
- * -Para configurar VLAN en bocas:
-     1. Nos vamos a las bocas y escribimos, switchport mode access. 
+ * Para crear VLAN:
+      * vlan 11
+      * name ‘Servidores’
+ * Para configurar VLAN en bocas:
+      1. Nos vamos a las bocas y escribimos, switchport mode access. 
       1.1 switchport mode vlan 11
       1.2 switchport mode allowed vlan 11
-     2. Para configurar el trunk en la boca: 2/0/2 hay que escribir -> switchport mode trunk. 
+      2. Para configurar el trunk en la boca: 2/0/2 hay que escribir -> switchport mode trunk. 
  * Probamos el cable 17 del PACH Panel ya que teníamos dudas de si estaba funcionando bien realmente, sin embargo si estaba correcto y daba señal aunque el cable no funciona en el pc.
  * Configuramos 2 nuevas reglas Firewall de un cliente Windows para hacer unas pruebas de ping. Por desgracia no hemos conseguido que sepa quien le esta enviando los paquetes aunque por lo menos llegar llegan.
  * En el servidor DC creamos Unidades Organizativas, Grupos (gg, …).
