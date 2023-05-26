@@ -130,3 +130,26 @@ Se han añadido mas cables al Patch-panel y ordenado los cables del CPD para ten
 En el servidor de Active Directory se crearon las unidades organizativas de los distintos grupos de usuarios, los grupos de los distintos departamentos y unido al dominio los clientes que estan virtualizados en los clientes Windows 10.
 
 Instalar el servidor web para la intranet, estamos usando Apache2.
+
+## Dia 18 (*Martes 23 de Mayo de 2023*)
+Instamos una OVA de Debian sin entorno gráfico, en ella ejecutamos apt update y apt upgrade para actualizar todo lo que esté pendiente.
+
+A continuación nos conectamos a la maquina vía ssh (Poniendo la máquina en adaptador puente, asignando una IP privada de la VLAN11, etc…) desde la máquina principal. Con esto configurado hemos podido conectarnos a Internet e instalado MariaDB y Zabbix.
+
+Para **MariaDB**:
+- Actualizamos con apt update
+- sudo apt install mariadb-server
+- sudo mysql_secure_install
+- 
+Para **Zabbix**:
+- Credenciales de acceso Zabbix:
+  - Usuario: Admin
+  - Contraseña: password
+
+IP’s **srv01**:
+Servidor de monitorización: 192.168.11.50
+Servidor de aplicaciones: 192.168.11.51
+Hemos unidos los servidores de aplicaciones y utilidades al dominio **galicia.lan**.
+
+## Dia 19 (*Miercoles 24 de Mayo de 2023*)
+Unimos el servidor de aplicaciones y utilidades al monitoreo del Zabbix y al dominio.
