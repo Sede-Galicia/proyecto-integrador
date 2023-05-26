@@ -140,16 +140,16 @@ Para **MariaDB**:
 - Actualizamos con apt update
 - sudo apt install mariadb-server
 - sudo mysql_secure_install
-- 
+
 Para **Zabbix**:
 - Credenciales de acceso Zabbix:
   - Usuario: Admin
   - Contraseña: password
 
 IP’s **srv01**:
-Servidor de monitorización: 192.168.11.50
-Servidor de aplicaciones: 192.168.11.51
-Hemos unidos los servidores de aplicaciones y utilidades al dominio **galicia.lan**.
+- Servidor de monitorización: 192.168.11.50
+- Servidor de aplicaciones: 192.168.11.51
+- Hemos unidos los servidores de aplicaciones y utilidades al dominio **galicia.lan**.
 
 ## Dia 19 (*Miercoles 24 de Mayo de 2023*)
 Unimos el servidor de aplicaciones y utilidades al monitoreo del Zabbix y al dominio.
