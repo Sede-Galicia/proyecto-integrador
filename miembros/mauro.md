@@ -62,3 +62,12 @@ Estuvimos asignando a cada ordenador que ip iba a tener, tambien, ordenamos quer
 
 # Dia 20 (23/05/2023)
 Introdujimos los clientes con sus respectivas ip´s al controlador de dominio de galicia.lan
+
+# Dia 21 (24/05/2023)
+Hoy estuvimos configurando el truenas para poder hacer una cabina de discos y poder conectarlo con el servidor
+
+# Dia 22 (25/05/2023)
+Se termino el script de usuarios del dominio, y seguimos configurando el truenas
+
+# Dia 23 (26/05/2023)
+Hemos vuelto a reinstalar el truenas, ya que la respectiva instalacion que se hizo, se hizo mal 
