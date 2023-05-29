@@ -45,4 +45,12 @@ Se han añadido mas cables al Patch-panel y ordenado los cables del CPD para ten
 
 instalamos el servidor web para la Intranet, estamos usando Apache2.
 
+# Dia 19 (Miercoles 24 de Mayo de 2023)
+Hemos unido clientes y servidores al servidor de moniotrizacion
+
+# Dia 20 (Jueves 25 de Mayo de 2023)
+Empezamos a hacer las particiones lvm en los sistemas operativos ubuntu.
+
+El primero es el srv-Monitorizacion:
+
 
