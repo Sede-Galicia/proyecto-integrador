@@ -35,3 +35,14 @@ Hemos instalado unos sistemas operativos virtualizados.
 
 # Dia 14 (11/05/2023)
 Hoy hemos conseguido que las VLANS funcionen, Las hemos configurado tambien en el **TP-LINK**.
+
+# Dia 15-19 (12/05/2023-22/05/2023)
+Hemos configurado la red entera nos a costado mucho porque la red nos estaba dando muchos problemas pero ya tenemos los dos switch y el mikrotik conectados con trunk y en el switch cisco hemos creado solamente las vlan 11 ya que ese switch lo utilizaremos solamente para servidores y en el tp-link tendremos creadas las vlans restantes para los departamentos.
+
+Estamos empezando a instalar el Zabbix en el servidor y el agente en los clientes para monitorizarlos.
+
+Se han añadido mas cables al Patch-panel y ordenado los cables del CPD para tener una mejor organizacion.
+
+instalamos el servidor web para la Intranet, estamos usando Apache2.
+
+
