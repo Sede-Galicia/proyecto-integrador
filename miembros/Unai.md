@@ -95,4 +95,8 @@
 
 ## Dia 19 (25/05/2023)
 
-- He seguido configurando el script de usuarios en el servidor de  dominio, también he creado las unidades organizativas correspondientes y los grupos y por último hemos intalado en zabix agent en el       servidor secundario para en el servidor zabix monitorizar este servidor.
+- He seguido configurando el script de usuarios en el servidor de  dominio, también he creado las unidades organizativas correspondientes y los grupos y por último hemos intalado en zabix agent en el     servidor secundario para en el servidor zabix monitorizar este servidor.
+
+## Dia 20 (30/05/2023)
+
+- He echo directivas de grupo en el servidor de dominio, para que se aplique a los clientes que estan dentro del dominio y he configurado en servidor de aplicaciones y utilidades , instalando la           aplicacion de GIMP y LIBREOFFICE
