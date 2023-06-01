@@ -180,11 +180,30 @@
 **25-05-2023 - Día 18**
 * Voy a realizar las particiones LVM en los servidores GNU/Linux. Primero empiezo con el servidor de monitorización.
 * LVM en Srv-Moni:
-
-
   * Añado 4 discos de 10GB cada uno.
   * Me conecto ssh a la 11.50 y hago lsblk para ver el listado de discos ( sdb , sdc , sdd, sde ).
   * Creo los volúmenes físicos:
       image
   * Creo el grupo de volúmenes a partir de los volúmenes físicos:
       image
+      
+**26-05-2023 - Día 18**
+* Me pongo a examinar tema lvm en sistemas GNU/Linux.
+* Pregunto a Juan mi duda respecto a los lvm y coincidimos en que debí hacer las particiones cuando isntalé el sistema. Aunque en realidad era una .OVA de Pep así qe al final decidimos dejarlo así.
+
+**29-05-2023 - Día 18**
+* Creamos RAID-GALICIA a través de la interfaz web del TrueNas [IP: 192.168.11.250].
+* Creamos las pools dades y backups con sus respectivos discos.
+
+**30-05-2023**
+* Enlazamos los discos de la cabina dades por iSCSI al servidor de Datos [IP:192.168.11.249].
+* Compartimos la cabina de discos vía red desde el servidor de Datos al DC principal [IP:192.168.11.10].
+
+**31-05-2023**
+* Intento compartir por nfs la pool de backups a la máquina principal del servidor 03.
+* Preparo las tarjetas de red (3) para el srv03.
+  * 1x SrvIntranet [IP:192.168.12.10].
+  * 1x SrvDatos [IP:192.168.11.249].
+  * 1x SrvTrueNas [IP:192.168.11.250].
+* Añado pegatina a cada adaptador de red para poder diferenciarlo a primera vista.  
+* Pongo a instalar en el cliente 04 las herramientas de administración RSAT y WAC pero por un mantenimiento de la electricidad en el taller tuvimos que apagar toda la infraestructura.
