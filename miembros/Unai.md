@@ -114,3 +114,8 @@
 - He vuelto a configurar el servidor de aplicaciones y utilidades ya que no estaba configurado correctamente, lo he vuelto a configurar y que tengo que acabarlo para comprobar que los clientes pudene     acceder.
 
 
+## Dia 23 (1/06/2023)
+
+- He seguido configurando el servidor de aplicaciones y utilidades y he buscado información sobre su funcionamiento, he hecho pruebas en el cliente pero sigue sin funcionar y por úñtimo hemos organizado   el cableado.
+
+
