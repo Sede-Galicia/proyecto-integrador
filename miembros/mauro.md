@@ -71,3 +71,12 @@ Se termino el script de usuarios del dominio, y seguimos configurando el truenas
 
 # Dia 23 (26/05/2023)
 Hemos vuelto a reinstalar el truenas, ya que la respectiva instalacion que se hizo, se hizo mal 
+
+# Dia 24 (29/05/2023)
+Hoy hemos finalizado el truenas y ahora estamos intentando enlazarlo con el windows server, mediante iscsi
+
+# Dia 25 (30/05/2023)
+Hoy hemos conectado el truenas al windows server, hemos empezado ha realizar las perfiles moviles y obligatorios
+
+# Dia 26 (31/05/2023)
+Me he puesto ha configurar el sai por si hubiera un apagon, que el equipo apague los servidores correctamente, tambien se ha empezado la DMZ
