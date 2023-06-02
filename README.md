@@ -115,15 +115,12 @@ Como estos no albergaran servidores consideramos que con solamente esa informaci
 
 - Hemos hecho el esquema de red en Cisco Packet Tracer para el montaje de la red de la sede.
 
-<img src="https://i.imgur.com/QVlaDZ7.png">
+<img src="https://i.imgur.com/yh4M4MI.png">
 
 ## Día 11 (*Miercoles 10 de Mayo de 2023*)
 - Hemos terminado de instalar todos los sistemas operativos que estan virtualizados en los ordenadores DELL.
 
 - Estamos tratando de hacer funcionar la red, esto es clave ya que si no tenemos nuestra red montada no podemos configurar nada de nuestros servidores.
-
-- Esquema de red.
-<img src="https://i.imgur.com/yh4M4MI.png">
 
 ## Dia 12-17 (*Viernes 12 de Mayo de 2023 hasta Lunes 22 de Mayo de 2023*)
 - Estos dias hemos estado configurando la red.
