@@ -132,7 +132,7 @@ En el servidor de Active Directory se crearon las unidades organizativas de los 
 Instalar el servidor web para la Intranet, estamos usando Apache2.
 
 ## Dia 18 (*Martes 23 de Mayo de 2023*)
-Instamos una OVA de Debian sin entorno gráfico, en ella ejecutamos apt update y apt upgrade para actualizar todo lo que esté pendiente.
+- Instamos una OVA de Debian sin entorno gráfico, en ella ejecutamos apt update y apt upgrade para actualizar todo lo que esté pendiente.
 
 A continuación nos conectamos a la maquina vía SSH (Poniendo la máquina en adaptador puente, asignando una IP privada de la VLAN11, etc…) desde la máquina principal. Con esto configurado hemos podido conectarnos a Internet e instalado MariaDB y Zabbix.
 
@@ -152,13 +152,32 @@ IP’s **srv01**:
 - Hemos unidos los servidores de aplicaciones y utilidades al dominio **galicia.lan**.
 
 ## Dia 19 (*Miercoles 24 de Mayo de 2023*)
-Unimos el servidor de aplicaciones y utilidades al monitoreo del Zabbix y al dominio.
+- Unimos el servidor de aplicaciones y utilidades al monitoreo del Zabbix y al dominio.
 
 ## Dia 20 (*Jueves 25 de Mayo de 2023*)
-Hemos realizado las particiones LVM en los servidores GNU/Linux, primero empiezo con el servidor de monitorización.
+- Hemos realizado las particiones LVM en los servidores GNU/Linux, primero empiezo con el servidor de monitorización.
 
 LVM en **srv-Monitorizacion**:
 - Hemos añadido 3 discos de 10GB cada uno.
-- Me conecto via SSH a la 192.168.11.50, despues hemos puesto el comando lsblk para ver el listado de discos (sdb, sdc, sdd, sde).
-- Creo los volúmenes físicos.
-- Creo el grupo de volúmenes a partir de los volúmenes físicos.
+- Nos conectamos via SSH a la 192.168.11.50, despues hemos puesto el comando lsblk para ver el listado de discos (**sdb**, **sdc**, **sdd**, **sde**).
+- Hemos creado los volúmenes físicos.
+- Creamos el grupo de volúmenes a partir de los volúmenes físicos.
+
+## Dia 21 (*Lunes 29 de Mayo de 2023*)
+- Se han creado las directivas de grupo en el Domain Controler para que estos se apliquen a los clientes que pertenecen al dominio, tambien se ha configurado el servidor de aplicaciones y utilidades.
+
+- Se ha finalidado de configurar el TrueNAS e intentamos mediante iSCSI tener los discos duros en el servidor Windows de datos.
+
+- Se crea el RAID-GALICIA a traves de la interfaz web del TrueNAS, ademas, se crean las pools **dades** y **backups** con sus respectivos discos
+
+- Se pone en funcionamiento el router inalambrico TP-LINK para proporcionar Wi-Fi, esto esta en la boca 4 del MikroTik.
+
+## Dia 22 (*Martes 30 de Mayo de 2023*)
+- Enlazamos los discos de la cabina al servidor Windows de datos mediante iSCSI de una forma exitosa y compartimos dichos discos mediante red desde el servidor Windows de datos hasta el Domain Controler.
+
+- Se han creado las carpetas de los perfiles moviles y obligatorios en los discos de las cabinas.
+
+## Dia 22 (*Miercoles 31 de Mayo de 2023*)
+- Se ha configurado el SAI para el servidor **svr02** y **srv03** junto con el cliente que gestiona el SAI se apague de forma segura.
+
+- Hemos empezado a gestionar la boca 3 del MikroTik para crear la DMZ.
