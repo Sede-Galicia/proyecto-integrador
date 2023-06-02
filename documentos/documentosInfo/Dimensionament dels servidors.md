@@ -1,6 +1,6 @@
 ## DELL 1
 **- Sistema Operativo y Servicios**
-    - S.O -> Lubuntu 22.04 (Entorno gráfico)
+    - S.O -> Ubuntu 22.04 (Entorno gráfico)
   
                    Servicios -> Servidor web intranet
                         - S.O: Lubuntu 22.04 (Entorno Gráfico)
@@ -36,7 +36,7 @@
     
 ## DELL 2
 **- Sistema Operativo y Servicios**
-    - S.O -> Lubuntu 22.04 (Entorno gráfico)
+    - S.O -> Ubuntu 22.04 (Entorno gráfico)
    
                    Servicios -> Servidor de aplicaciones y utilidades
                         - S.O: Windows Server 2022 (Entorno Gráfico)
@@ -65,7 +65,7 @@
     
 ## DELL 3
 **- Sistema Operativo y Servicios**
-    - S.O -> Lubuntu 22.04 (Entorno gráfico)
+    - S.O -> Ubuntu 22.04 (Entorno gráfico)
     
                    Servicios -> Servidor de Controlador de Dominio
                         - S.O: Windows Server 2022 (Entorno Gráfico)
