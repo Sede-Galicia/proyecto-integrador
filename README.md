@@ -122,7 +122,8 @@ Como estos no albergaran servidores consideramos que con solamente esa informaci
 
 - Estamos tratando de hacer funcionar la red, esto es clave ya que si no tenemos nuestra red montada no podemos configurar nada de nuestros servidores.
 
-- Hemos subido el esquema de red y el fichero del esquema de red en una nueva carpeta llamada red, la cual es accesible haciendo clic [aqui](https://github.com/Sede-Galicia/proyecto-integrador/tree/main/red).
+- Esquema de red.
+<img src="https://i.imgur.com/yh4M4MI.png">
 
 ## Dia 12-17 (*Viernes 12 de Mayo de 2023 hasta Lunes 22 de Mayo de 2023*)
 - Estos dias hemos estado configurando la red.
