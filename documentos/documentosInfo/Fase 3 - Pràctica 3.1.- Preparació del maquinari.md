@@ -1,9 +1,62 @@
 # Fase 3 - Pràctica 3.1.- Preparació del maquinari
-
-## Introduccion
-
-
 ## Material disponible
+### Ordenadores
+- **x3** Ordenadores DELL 
+  - Intel Core i5 9th Gen
+  - Serial: **ORJ3**
+
+- **x3** Ordenadores APD
+  - Intel Pentium Gold
+  - Serial: **ORI3**
+
+- **x1** Ordenador HP
+  - Intel i5 4th Gen
+  - Serial: **ORF2**
+
+- **x1** Ordenador Generico
+  - Intel Pentium
+  - Serial: **ORH2**
+
+### Switches
+- **x1** TP-LINK con 8 bocas Ethernet [1 Gbps]
+- **x1** TP-LINK con 24* bocas Ethernet [1 Gbps] (Tiene 28 pero 4 son especiales.)
+- **x2** LONGSHINE con 24 bocas Ethernet [100 Mbps] + 2 bocas Ethernet [1 Gbps]
+- **x1** Patch-panel con 24 bocas Ethernet [Categoria 5e]
+- **x1** Switch CISCO con 24 bocas Ethernet [1 Gbps] + 2 modulos para bocas Ethernet [10 Gbps]
+
+### Red
+- **x1** MikroTik (HAP Lite) configurable con 4 bocas Ethernet
+- **x1** Router TP-LINK [150 Mbps] con 4 bocas Ethernet [100 Mbps]
+
+### Electrico
+- **x1** SAI Salicru hasta 1200W [3 enchufes]
+- **x1** Alimentador para MikroTik (HAP Lite)
+- **x1** Alimentador para Router TP-LINK
+- **x0** Alimentador para TP-LINK con 8 bocas Ethernet
+
+### Adaptadores
+- **x2** Adaptador VGA to HDMI
+- **x7** Adaptadores RJ-45 to USB
+
+### Cables
+- **x14** cables cortos Ethernet
+- **x22** cables largos Ethernet
+- **x11** Cables de alimentacion
+- **x3** Cables VGA
+
+### Perifericos
+- **x3** Teclados
+- **x3** Ratones
 
 
-## Organizacion
+## Modulo fundamentos de la maquinaria
+### CPD
+- Los servidores los tendremos en la parte de abajo del RACK tumbados al lado del SAI.
+- los switches TP-LINK y CISCO estan operativos para dar servicio a los servidores y clientes.
+- EL cableado que alimentara a todos los equipos de la sede esta gestionado debajo de la mesa con bridas.
+
+### SAIs
+- El SAI esta configurado para que los servidores (**srv02** y **srv03**) y cliente que gestiona el SAI se apaguen correctamente, el servidor **srv01** no es importante ya que si se va la luz, los clientes no tendran acceso a la Intranet ni al servidor de aplicaciones y utilidades de la sede.
+- Obviamente, somos conscientes de que si el switch TP-LINK no esta conectado tambien al SAI, las señales de apagado que el SAI haga no serviran de absolutamente nada, por ello, si tuvieramos un mejor SAI hariamos lo siguiente:
+
+> Imaginemos que tenemos un SAI super bueno con muchos enchufes, bien, tendriamos enchufados todos los servidores (**srv01**, **srv02** y **srv03**) junto con el cliente que gestiona el SAI y el switch TP-LINK y CISCO para que las señales de apagado se puedan realizar correctamente.
