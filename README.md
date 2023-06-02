@@ -50,11 +50,14 @@
 
 ## Día 4 (*Miercoles 20 de Abril de 2023*)
 - Hemos ido al taller para configurar el **MikroTik** y dejarlo preparado para que los equipos puedan salir a Internet a través de él.
+
 - Hemos empezado a instalar en los equipos los sistemas operativos que usaremos para nuestro proyecto, empezaremos con los ordenadores DELL instalando el sistema operativo **Debian 11 Con Entorno Gráfico**, ya que en esos servidores físicos necesitaremos virtualizar otros servicios.
 
 ## Día 5 (*Miercoles 26 de Abril de 2023*)
 - Continuamos configurando el **MicroTik**, hemos estando realizando distintas pruebas y cada vez estamos más cerca de lograr crear las redes.
-- Realizamos un **esquema de red** en sucio, (en el taller). Esto nos servirá para aclarar mejor las ideas y plantear ya que fallos o que falta para configurar   el microtik
+
+- Realizamos un **esquema de red** en sucio, (en el taller). Esto nos servirá para aclarar mejor las ideas y plantear ya que fallos o que falta para configurar el microtik
+
 - Hacemos primer contacto con la interfaz de configuración del switch de 8 bocas a través del navegador. Accedemos a la herramienta y reiniciamos el dispositivo para quitar cualquier configuración previa como algunas VLAN's. 
 
    > Al principio no funcionaba ya que no estabamos en la misma red con lo cual no podíamos acceder a la dirección por LAN, problema resuelto.
@@ -63,11 +66,14 @@
 
 ## Día 6 (*Viernes 28 de Abril de 2023*)
 - Hemos acabado de realizar el documento de dimensionamiento de equipos.
+
 - Hemos estado instalando sistemas operativos a los equipos.
 
 ## Día 7 (*Martes 2 de Mayo de 2023*)
 - Hemos ido al taller y hemos realizado unas instalaciones de programas para que sea más accesible la configuración de los TP-LINK y poder manejar más fácil la interfaz.
+
 - Hemos estado revisando el esquema de red, ya que tenía unos fallos.
+
 - Seguimos instalando sistemas operativos en los equipos.
 
 ## Día 8 (*Miércoles 3 de Mayo de 2023*)
@@ -97,19 +103,25 @@ Como estos no albergaran servidores consideramos que con solamente esa informaci
 
 ## Día 9 (*Viernes 5 de Mayo de 2023*)
 - Hemos acabado de montar el patch panel y colocarlo en el CPD.
+
 - Hemos organizado todo el CPD y los cables que estaban en el area de trabajo.
+
 - Hemos seguido con la configuracion y instalacion de sistemas operativos en los equipos restantes.
 
 ## Día 10 (*Martes 9 de Mayo de 2023*)
 - Hemos terminado de instalar los sistemas de todos los equipos de la sede.
+
 - Hemos etiquetado todos los equipos de la sede con su hostname y password y el sistema que tiene instalado.
+
 - Hemos hecho el esquema de red en Cisco Packet Tracer para el montaje de la red de la sede.
 
 <img src="https://i.imgur.com/QVlaDZ7.png">
 
 ## Día 11 (*Miercoles 10 de Mayo de 2023*)
 - Hemos terminado de instalar todos los sistemas operativos que estan virtualizados en los ordenadores DELL.
+
 - Estamos tratando de hacer funcionar la red, esto es clave ya que si no tenemos nuestra red montada no podemos configurar nada de nuestros servidores.
+
 - Hemos subido el esquema de red y el fichero del esquema de red en una nueva carpeta llamada red, la cual es accesible haciendo clic [aqui](https://github.com/Sede-Galicia/proyecto-integrador/tree/main/red).
 
 ## Dia 12-17 (*Viernes 12 de Mayo de 2023 hasta Lunes 22 de Mayo de 2023*)
@@ -121,15 +133,15 @@ Como estos no albergaran servidores consideramos que con solamente esa informaci
   - Switch CISCO
     - El switch CISCO tiene solamente la VLAN 11 gracias a un TRUNK entre el switch TP-LINK y el switch CISCO porque solamente se conectaran los servidores.
 
-Hemos completado la instalacion de los sistemas operativos virtualizados que tendran los clientes a modo de prueba como indica el documento del proyecto 3.3
+- Hemos completado la instalacion de los sistemas operativos virtualizados que tendran los clientes a modo de prueba como indica el documento del proyecto 3.3
 
-Estamos empezando a instalar el Zabbix en un Ubuntu Desktop 20.04 LTS para monitorizar todos los equipos de la sede.
+- Estamos empezando a instalar el Zabbix en un Ubuntu Desktop 20.04 LTS para monitorizar todos los equipos de la sede.
 
-Se han añadido mas cables al Patch-panel y ordenado los cables del CPD para tener una mejor organizacion.
+- Se han añadido mas cables al Patch-panel y ordenado los cables del CPD para tener una mejor organizacion.
 
 En el servidor de Active Directory se crearon las unidades organizativas de los distintos grupos de usuarios, los grupos de los distintos departamentos y unido al dominio los clientes que estan virtualizados en los clientes Windows 10.
 
-Instalar el servidor web para la Intranet, estamos usando Apache2.
+- Instalar el servidor web para la Intranet, estamos usando Apache2.
 
 ## Dia 18 (*Martes 23 de Mayo de 2023*)
 - Instamos una OVA de Debian sin entorno gráfico, en ella ejecutamos apt update y apt upgrade para actualizar todo lo que esté pendiente.
@@ -159,8 +171,11 @@ IP’s **srv01**:
 
 LVM en **srv-Monitorizacion**:
 - Hemos añadido 3 discos de 10GB cada uno.
+
 - Nos conectamos via SSH a la 192.168.11.50, despues hemos puesto el comando lsblk para ver el listado de discos (**sdb**, **sdc**, **sdd**, **sde**).
+
 - Hemos creado los volúmenes físicos.
+
 - Creamos el grupo de volúmenes a partir de los volúmenes físicos.
 
 ## Dia 21 (*Lunes 29 de Mayo de 2023*)
@@ -181,3 +196,10 @@ LVM en **srv-Monitorizacion**:
 - Se ha configurado el SAI para el servidor **svr02** y **srv03** junto con el cliente que gestiona el SAI se apague de forma segura.
 
 - Hemos empezado a gestionar la boca 3 del MikroTik para crear la DMZ.
+
+- Compartimos por NFS la pool de **backups** a la maquina principal del **srv03**.
+
+## Dia 23 (*Jueves 1 de Junio de 2023*)
+- Se ha organizado los cables Ethernet que van a los clientes.
+
+- Hemos empezado a instalar WAC y RSAT para gestionar los servidores sin tener que usarlos directamente.
