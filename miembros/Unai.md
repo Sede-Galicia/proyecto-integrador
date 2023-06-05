@@ -119,3 +119,8 @@
 - He seguido configurando el servidor de aplicaciones y utilidades y he buscado información sobre su funcionamiento, he hecho pruebas en el cliente pero sigue sin funcionar y por úñtimo hemos organizado   el cableado.
 
 
+## Dias 24 (2/06/2023)
+
+- He conseguido solucionar el servidor de aplicaciones y utilidades y ya se ven las aplicaciones publicadas tanto en el         servidor como en los clientes.
+
+
