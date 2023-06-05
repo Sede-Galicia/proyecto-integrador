@@ -80,3 +80,10 @@ Hoy hemos conectado el truenas al windows server, hemos empezado ha realizar las
 
 # Dia 26 (31/05/2023)
 Me he puesto ha configurar el sai por si hubiera un apagon, que el equipo apague los servidores correctamente, tambien se ha empezado la DMZ
+
+# Dia 27 (01/06/2023)
+Terminamos de configurar los equipos con el sai
+
+# Dia 28 (02/05/2023)
+Instalando las Rsat en el windows server
+
