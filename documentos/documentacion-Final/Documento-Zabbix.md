@@ -1,7 +1,6 @@
 # Zabbix-Server y Cliente
 # 1-Server
 
-
 # *Actualiza el sistema e instala MariaDB*
 
 apt update && apt upgrade
@@ -82,20 +81,12 @@ URL: http://IP/zabbix/
 **Configura la conexión a la DB.**
 <img src="https://i.imgur.com/b3bJR2Z.png">
 # Zabbix-Server y Cliente
-2
 # 1-Server
-3
-​
-4
-​
-5
 # *Actualiza el sistema e instala MariaDB*
 6
-​
 7
 apt update && apt upgrade
 8
-​
 9
 Añade el repositorio de MariaDB:
 10
