@@ -119,8 +119,20 @@
 - He seguido configurando el servidor de aplicaciones y utilidades y he buscado información sobre su funcionamiento, he hecho pruebas en el cliente pero sigue sin funcionar y por úñtimo hemos organizado   el cableado.
 
 
-## Dias 24 (2/06/2023)
+## Dia 24 (2/06/2023)
 
 - He conseguido solucionar el servidor de aplicaciones y utilidades y ya se ven las aplicaciones publicadas tanto en el         servidor como en los clientes.
+
+
+## Dia 25 (6/06/2023)
+
+- He hecho dos paginas web del modulo de lenguaje de Marcas y también le he hemos dicho a juan que nos corriga su parte de     proyecto
+
+
+## Dia 26 (7/06/2023)
+
+- He hecho la documentación del servidor de aplicaciones y utilidades y la documentación del servidor de Controlador de         Dominio
+
+
 
 
