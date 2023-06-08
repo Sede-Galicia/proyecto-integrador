@@ -12,10 +12,15 @@
       * Usuario: root 
       * Passwd: 1234
      Credenciales de user Galicia -
-      * 
-      *
+      * Usuario: Sgalicia 
+      * Passwd: 
   6. Una vez dentro el primer paso (opcional). 
-      * Ir a 'System' > 'General'.
-      * Pinchar en el desplegable 'Lenguage' y selecionar la opcion 'Spanish (es)'.
+      * Ir a 'System' > 'General'. Pinchar en el desplegable 'Lenguage' y selecionar la opcion 'Spanish (es)'.
       * Ahora iremos a la pestaña de 'Red' > 'Global Configuration'. En esta pestaña configuraremos:
-      * 
+        * Hostname: galiciaNas
+        * Dominio: galicia.lan
+        * Servidor DNS: 192.168.11.249
+  7. El siguiente paso es ir a 'Almacenamiento' > 'Pools', le daremos al botón 'Añadir'.
+      * Seleccionaremos la opción de 'Create a new pool'.
+      * Creamos el volumen y lo llamamos 'backup'. Le asignamos los discos a utilizar y marcamos la opción de 'Encriptación' (nos descargamos seguidamente la clave para descifrar). Haremos lo mismo con la Pool 'dades'.
+      *           
