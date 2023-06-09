@@ -140,7 +140,7 @@ https://www.zabbix.com/la/download_agents
 
 # Dispositivos unidos al Servidor Zabbix
 
-**Meto el MicroTik en el Srv Zabbix:**
+## **Meto el MicroTik en el Srv Zabbix:**
 1. Le damos a ‘ Create host’.
 
 Hostname: MicroTik
@@ -153,7 +153,7 @@ SNMP: 192.168.11.1
 
 Port: 161
 
-**SRV01-DATOS:**
+## **SRV01-DATOS:**
 1. Le damos a ‘ Create host’.
 
 Hostname: SRV01-DATOS
@@ -166,7 +166,7 @@ Agent: 192.168.11.249
 
 Port: 10050
 
-**Srv-Intranet:**
+## **Srv-Intranet:**
 Hostname: Srv-Intranet
 
 Templates: Linux by Zabbix agent
@@ -177,7 +177,7 @@ Agent: 192.168.12.10
 
 Port: 10050
 
-**SRV-APLI-UTIL:**
+## **SRV-APLI-UTIL:**
 1. Le damos a ‘ Create host’.
 
 Hostname: SRV-APLI-UTIL
@@ -190,7 +190,7 @@ Agent: 192.168.11.51
 
 Port: 10050
 
-**SRV-DC:**
+## **SRV-DC:**
 1. Le damos a ‘ Create host’.
 
 Hostname: SRV-DC
@@ -203,7 +203,7 @@ Agent: 192.168.11.10
 
 Port: 10050
 
-**SRV-DC2:**
+## **SRV-DC2:**
 1. Le damos a ‘ Create host’.
 
 Hostname: SRV-DC2
@@ -216,7 +216,7 @@ Agent: 192.168.11.11
 
 Port: 10050
 
-**zabbix:**
+## **zabbix:**
 1. Le damos a ‘ Create host’.
 
 Hostname: zabbix
@@ -229,7 +229,7 @@ Agent: 127.0.0.1
 
 Port: 10050
 
-**Srv-TrueNas:**
+## **Srv-TrueNas:**
 1. Le damos a ‘ Create host’.
 
 Hostname: 
