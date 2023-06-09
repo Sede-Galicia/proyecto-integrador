@@ -138,3 +138,62 @@ https://www.zabbix.com/la/download_agents
 
 **le damos a apply y ya tendremos el cliente unido**
 
+# Dispositivos unidos al Servidor Zabbix
+
+**Meto el MicroTik en el Srv Zabbix:**
+1. Le damos a ‘ Create host’.
+Hostname: MicroTik
+Templates: Microtik by SNMP
+Hostgroup: Dispositivos de red
+SNMP: 192.168.11.1
+Port: 161
+
+**SRV01-DATOS:**
+Hostname: SRV01-DATOS
+Templates: Windows by Zabbix agent
+Hostgroup: Servidores_Windows (Lis creas tu mismo)
+Agent: 192.168.11.249
+Port: 10050
+
+**Srv-Intranet:**
+Hostname: Srv-Intranet
+Templates: Linux by Zabbix agent
+Hostgroup: Linux servers
+Agent: 192.168.12.10
+Port: 10050
+
+**SRV-APLI-UTIL:**
+Hostname: SRV-APLI-UTIL
+Templates: Windows by Zabbix agent
+Hostgroup: Servidores_Windows
+Agent: 192.168.11.51
+Port: 10050
+
+**SRV-DC:**
+Hostname: SRV-DC
+Templates: Windows by Zabbix agent
+Hostgroup: Servidores_Windows
+Agent: 192.168.11.10
+Port: 10050
+
+**SRV-DC2:**
+Hostname: SRV-DC2
+Templates: Windows by Zabbix agent
+Hostgroup: Servidores_Windows
+Agent: 192.168.11.11
+Port: 10050
+
+**zabbix:**
+Hostname: zabbix
+Templates: Linux by Zabbix agent + Zabbix server health
+Hostgroup: Zabbix servers
+Agent: 127.0.0.1
+Port: 10050
+
+**Srv-TrueNas:**
+Hostname: 
+Templates: Linux by Zabbix agent
+Hostgroup: Linux servers
+Agent: 192.168.11.250
+Port: 10050
+
