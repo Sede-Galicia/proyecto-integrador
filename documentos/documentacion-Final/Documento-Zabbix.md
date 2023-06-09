@@ -167,6 +167,8 @@ Agent: 192.168.11.249
 Port: 10050
 
 ## **Srv-Intranet:**
+1. Le damos a ‘ Create host’.
+
 Hostname: Srv-Intranet
 
 Templates: Linux by Zabbix agent
