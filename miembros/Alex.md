@@ -54,3 +54,39 @@ Empezamos a hacer las particiones lvm en los sistemas operativos ubuntu.
 El primero es el srv-Monitorizacion:
 
 
+## Dia 21 (29/05/2023)
+
+- He echo directivas de grupo en el servidor de dominio, para que se aplique a los clientes que estan dentro del dominio y he configurado en servidor de aplicaciones y utilidades , instalando la           aplicacion de GIMP y LIBREOFFICE
+
+
+## Dia 22 (30/05/2023)
+
+- Hemos creado y configurado las carpetas personales, perfiles obligatorios y perfiles moviles de los usuarios de la empresa, hemos acabado de configurar el trunas y de compartir la carpeta de             AdminDomnio que dentro estan todos los datos del usuario y por último intente acabar de configurar el servidor de aplicaciones y utilidades.
+
+
+## Dia 23 (31/05/2023)
+
+- He vuelto a configurar el servidor de aplicaciones y utilidades ya que no estaba configurado correctamente, lo he vuelto a configurar y que tengo que acabarlo para comprobar que los clientes pudene     acceder.
+
+
+## Dia 24 (1/06/2023)
+
+- He seguido configurando el servidor de aplicaciones y utilidades y he buscado información sobre su funcionamiento, he hecho pruebas en el cliente pero sigue sin funcionar y por úñtimo hemos organizado   el cableado.
+
+
+## Dia 25 (2/06/2023)
+
+- He conseguido solucionar el servidor de aplicaciones y utilidades y ya se ven las aplicaciones publicadas tanto en el         servidor como en los clientes.
+
+
+## Dia 26 (6/06/2023)
+
+- He hecho dos paginas web del modulo de lenguaje de Marcas y también le he hemos dicho a juan que nos corriga su parte de     proyecto
+
+
+## Dia 27 (7/06/2023)
+
+- He hecho la documentación del servidor de aplicaciones y utilidades y la documentación del servidor de Controlador de         Dominio
+
+
+
