@@ -73,6 +73,33 @@
 - **Que no he podido conseguir y porque** → Habiamos instalado la aplicacion del TP-LINK, pero vimos que no era exactamente para nuestro modelo y lo terminamos desistalando.
 
 ## Dia 8 (*Miércoles 3 de Mayo de 2023*)
+- **Objetivo del dia** → Rehacer el esquema de red, instalar VirtualBox e instalar los servidores, instalar Windows en los clientes y etiquetar los servidores.
+
+- **Que se ha hecho** → Hemos hecho de nuevo el esquema de red por unos errores que teniamos en el anterior, instalado los VirtualBox en los servidores e instalar sus sistemas operativos y por ultimo instalar Windows en los clientes.
+
+- **Que he podido conseguir** → Hemos podido hacer todo sin problema, sin duda un dia realmente productivo.
+
+- **Que no he podido conseguir y porque** → No he tenido ningun problema.
+
+## Dia 9 (*Viernes 5 de Mayo de 2023*)
+- **Objetivo del dia** →  Montar el patch panel y ponerlo en el CPD.
+
+- **Que se ha hecho** → Montar el patch panel en el CPD con exito.
+
+- **Que he podido conseguir** → Ayudar a mis compañeros a la colocacion de los cables del patch panel.
+
+- **Que no he podido conseguir y porque** → No he tenido ningun problema.
+
+## Dia 10 (*Martes 9 de Mayo de 2023*)
+- **Objetivo del dia** → Etiquetar las maquinas y reecrear el esquema de red en Cisco Packet Tracer.
+
+- **Que se ha hecho** → Etiquetar las maquinas y reecrear el esquema de red en Cisco Packet Tracer.
+
+- **Que he podido conseguir** → Se han podido conseguir todos los objetivos que teniamos para este dia.
+
+- **Que no he podido conseguir y porque** → No he tenido ningun problema.
+
+## Dia 11 (*Miercoles 10 de Mayo de 2023*)
 - **Objetivo del dia** → 
 
 - **Que se ha hecho** → 
@@ -81,7 +108,70 @@
 
 - **Que no he podido conseguir y porque** → 
 
-## Dia XX (*Plantilla*)
+## Dia 12-17 (*Viernes 12 de Mayo de 2023 hasta Lunes 22 de Mayo de 2023*)
+- **Objetivo del dia** → 
+
+- **Que se ha hecho** → 
+
+- **Que he podido conseguir** → 
+
+- **Que no he podido conseguir y porque** → 
+
+## Dia 18 (*Martes 23 de Mayo de 2023*)
+- **Objetivo del dia** → 
+
+- **Que se ha hecho** → 
+
+- **Que he podido conseguir** → 
+
+- **Que no he podido conseguir y porque** → 
+
+## Dia 19 (*Miercoles 24 de Mayo de 2023*)
+- **Objetivo del dia** → 
+
+- **Que se ha hecho** → 
+
+- **Que he podido conseguir** → 
+
+- **Que no he podido conseguir y porque** → 
+
+## Dia 20 (*Jueves 25 de Mayo de 2023*)
+- **Objetivo del dia** → 
+
+- **Que se ha hecho** → 
+
+- **Que he podido conseguir** → 
+
+- **Que no he podido conseguir y porque** → 
+
+## Dia 21 (*Lunes 29 de Mayo de 2023*)
+- **Objetivo del dia** → 
+
+- **Que se ha hecho** → 
+
+- **Que he podido conseguir** → 
+
+- **Que no he podido conseguir y porque** → 
+
+## Dia 22 (*Martes 30 de Mayo de 2023*)
+- **Objetivo del dia** → 
+
+- **Que se ha hecho** → 
+
+- **Que he podido conseguir** → 
+
+- **Que no he podido conseguir y porque** → 
+
+## Dia 23 (*Miercoles 31 de Mayo de 2023*)
+- **Objetivo del dia** → 
+
+- **Que se ha hecho** → 
+
+- **Que he podido conseguir** → 
+
+- **Que no he podido conseguir y porque** → 
+
+## Dia 24 (*Jueves 1 de Junio de 2023*)
 - **Objetivo del dia** → 
 
 - **Que se ha hecho** → 
